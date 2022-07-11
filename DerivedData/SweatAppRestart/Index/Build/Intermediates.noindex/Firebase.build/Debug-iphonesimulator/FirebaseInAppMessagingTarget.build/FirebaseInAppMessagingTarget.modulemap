@@ -1,0 +1,4 @@
+module FirebaseInAppMessagingTarget {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/SwiftPM-PlatformExclude/FirebaseInAppMessagingWrap/include"
+export *
+}

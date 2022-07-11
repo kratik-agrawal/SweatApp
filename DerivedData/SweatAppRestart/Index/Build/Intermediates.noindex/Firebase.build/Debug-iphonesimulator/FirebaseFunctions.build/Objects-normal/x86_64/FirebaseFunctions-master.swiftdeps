@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "28f0e9e2b77adad731e6949aa4d896460ef186440af006f61486e63d391e3113"
+build_start_time: [1657351308, 804171085]
+build_end_time: [1657351309, 643014907]
+inputs:
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Callable+Codable.swift"
+  : [1657346822, 530922412]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Functions.swift"
+  : [1657346822, 531230926]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/FunctionsError.swift"
+  : [1657346822, 531493663]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/HTTPSCallable.swift"
+  : [1657346822, 531775236]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Internal/FunctionsComponent.swift"
+  : [1657346822, 532067775]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Internal/FunctionsContext.swift"
+  : [1657346822, 532270431]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseFunctions/Sources/Internal/FunctionsSerializer.swift"
+  : [1657346822, 532487392]

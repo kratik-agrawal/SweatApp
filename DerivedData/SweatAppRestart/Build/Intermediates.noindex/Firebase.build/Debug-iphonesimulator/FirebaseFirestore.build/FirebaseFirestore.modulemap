@@ -1,0 +1,4 @@
+module FirebaseFirestore {
+umbrella header "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/Firestore/Source/Public/FirebaseFirestore/FirebaseFirestore.h"
+export *
+}

@@ -1,0 +1,4 @@
+module GoogleDataTransport {
+umbrella header "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/GoogleDataTransport/GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport/GoogleDataTransport.h"
+export *
+}

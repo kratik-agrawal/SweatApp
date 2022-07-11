@@ -1,0 +1,55 @@
+{
+  "object" : {
+    "repositories" : {
+      "https://github.com/apple/swift-protobuf.git" : {
+        "repositoryURL" : "https://github.com/apple/swift-protobuf.git",
+        "subpath" : "swift-protobuf-9f1e4ec4"
+      },
+      "https://github.com/firebase/abseil-cpp-SwiftPM.git" : {
+        "repositoryURL" : "https://github.com/firebase/abseil-cpp-SwiftPM.git",
+        "subpath" : "abseil-cpp-SwiftPM-cc296c64"
+      },
+      "https://github.com/firebase/boringssl-SwiftPM.git" : {
+        "repositoryURL" : "https://github.com/firebase/boringssl-SwiftPM.git",
+        "subpath" : "boringssl-SwiftPM-c3eba25b"
+      },
+      "https://github.com/firebase/firebase-ios-sdk" : {
+        "repositoryURL" : "https://github.com/firebase/firebase-ios-sdk",
+        "subpath" : "firebase-ios-sdk-c63c6384"
+      },
+      "https://github.com/firebase/leveldb.git" : {
+        "repositoryURL" : "https://github.com/firebase/leveldb.git",
+        "subpath" : "leveldb-12d5b35c"
+      },
+      "https://github.com/firebase/nanopb.git" : {
+        "repositoryURL" : "https://github.com/firebase/nanopb.git",
+        "subpath" : "nanopb-208d9073"
+      },
+      "https://github.com/google/GoogleAppMeasurement.git" : {
+        "repositoryURL" : "https://github.com/google/GoogleAppMeasurement.git",
+        "subpath" : "GoogleAppMeasurement-0ed9e027"
+      },
+      "https://github.com/google/GoogleDataTransport.git" : {
+        "repositoryURL" : "https://github.com/google/GoogleDataTransport.git",
+        "subpath" : "GoogleDataTransport-2feee0f8"
+      },
+      "https://github.com/google/GoogleUtilities.git" : {
+        "repositoryURL" : "https://github.com/google/GoogleUtilities.git",
+        "subpath" : "GoogleUtilities-34a5fa84"
+      },
+      "https://github.com/google/gtm-session-fetcher.git" : {
+        "repositoryURL" : "https://github.com/google/gtm-session-fetcher.git",
+        "subpath" : "gtm-session-fetcher-66fe3e42"
+      },
+      "https://github.com/google/promises.git" : {
+        "repositoryURL" : "https://github.com/google/promises.git",
+        "subpath" : "promises-effc8acf"
+      },
+      "https://github.com/grpc/grpc-ios.git" : {
+        "repositoryURL" : "https://github.com/grpc/grpc-ios.git",
+        "subpath" : "grpc-ios-9a5f03c1"
+      }
+    }
+  },
+  "version" : 1
+}

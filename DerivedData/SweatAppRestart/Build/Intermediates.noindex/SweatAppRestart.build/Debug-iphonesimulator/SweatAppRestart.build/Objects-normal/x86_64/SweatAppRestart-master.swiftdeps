@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "4bbe879ae5f43a588720488ea1d116c25ad88e2fdea474b6bcf2e22bd7a74c8d"
+build_start_time: [1657516534, 956102848]
+build_end_time: [1657516536, 780334949]
+inputs:
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/ContentView.swift": [1657391036, 805006027]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/ViewModel/AuthViewModel.swift": [1657391564, 697006225]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/Views/LoginView.swift": [1657387510, 48377752]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/Views/RegisterView.swift": [1657387507, 438644647]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Components/Authentication/AuthenticationHeaderView.swift": [1657345409, 928557872]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Components/CustomTextField.swift": [1657387480, 874492645]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Components/RoundedShape.swift": [1657343080, 524068117]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Feed/View/FeedView.swift": [1657333206, 159257650]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/MainTab/MainTabView.swift": [1657391005, 430059909]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Notifications/NotificationView.swift": [1657331663, 794312477]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Profile/Views/ProfileView.swift": [1657516309, 530992031]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/SideMenu/ViewModel/SideMenuViewModel.swift": [1657333698, 353142261]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/SideMenu/Views/SideMenuOptionRowView.swift": [1657335664, 497894763]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/SideMenu/Views/SideMenuView.swift": [1657390774, 902905464]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Verify/VerifyView.swift": [1657331876, 72034835]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Model/User.swift": [1657390176, 273381233]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Service/UserService.swift": [1657390485, 517312526]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/SweatAppRestartApp.swift": [1657352279, 159272670]

@@ -1,0 +1,4 @@
+module FirebaseCoreDiagnostics {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/Firebase/CoreDiagnostics/FIRCDLibrary"
+export *
+}

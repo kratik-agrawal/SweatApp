@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+SweatAppRestart in SweatAppRestart, no dependencies
+SweatAppRestart in SweatAppRestart, no dependencies

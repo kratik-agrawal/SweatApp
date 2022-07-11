@@ -1,0 +1,4 @@
+module FirebaseAnalyticsOnDeviceConversionTarget {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsOnDeviceConversionWrapper/include"
+export *
+}

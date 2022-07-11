@@ -1,0 +1,39 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "08f7fa90fb0918e52b45b6ecca4dac480c0ae6cdea31612b7a832f6a9466ff8b"
+build_start_time: [1657351105, 810435056]
+build_end_time: [1657351106, 835085868]
+inputs:
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/Array+Extensions.swift"
+  : [1657346806, 783003807]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/CodePrinter.swift"
+  : [1657346806, 783985614]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/Descriptor+Extensions.swift"
+  : [1657346806, 784258842]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/Descriptor.swift"
+  : [1657346806, 784666538]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/FieldNumbers.swift"
+  : [1657346806, 784978389]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/Google_Protobuf_Compiler_CodeGeneratorResponse+Extensions.swift"
+  : [1657346806, 785225868]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/Google_Protobuf_SourceCodeInfo+Extensions.swift"
+  : [1657346806, 785486698]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/NamingUtils.swift"
+  : [1657346806, 785813808]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/ProtoFileToModuleMappings.swift"
+  : [1657346806, 786154270]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/ProvidesLocationPath.swift"
+  : [1657346806, 786403656]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/ProvidesSourceCodeLocation.swift"
+  : [1657346806, 786596298]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/SwiftLanguage.swift"
+  : [1657346806, 786802768]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/SwiftProtobufInfo.swift"
+  : [1657346806, 786977767]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/SwiftProtobufNamer.swift"
+  : [1657346806, 787202358]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/UnicodeScalar+Extensions.swift"
+  : [1657346806, 787438869]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/plugin.pb.swift"
+  : [1657346806, 787694931]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobufPluginLibrary/swift_protobuf_module_mappings.pb.swift"
+  : [1657346806, 788047790]

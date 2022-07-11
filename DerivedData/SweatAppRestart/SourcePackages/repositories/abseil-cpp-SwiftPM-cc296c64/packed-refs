@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled sorted 
+583de9bd60f66b40e78d08599cc92036c2e7e4e1 refs/heads/main
+3bd26da20e165f3ace0bd7c6950987543ab7f5db refs/heads/rw-xcode13-fixes
+0e45ec0e17d848da6b003087f9ccb07539f850cc refs/pull/11/head
+5e0a59e97600e6cee2d5b9da756c0f3723c568ed refs/pull/12/head
+973d27376eedfb8f0f0a324be4b4121d44808dc9 refs/pull/2/head
+697fb93ee29def0198c456118b69bdfea9a02a5d refs/pull/3/head
+51572bf03598b27807cca4cf2542f7a6c45815c0 refs/pull/4/head
+85659f2ce0a9a0a330456cd2bed93497fbd0a2b5 refs/pull/5/head
+3bd26da20e165f3ace0bd7c6950987543ab7f5db refs/pull/6/head
+0f8b62bb48849427d89d0ccfded1fa516c13ace4 refs/pull/8/head
+0ac50a4d4af903a8644c2589aec2171ad29956ca refs/pull/9/head
+05d8107f2971a37e6c77245b7c4c6b0a7e97bc99 refs/tags/0.20200225.0
+8bdc85ed5c9f8fb30cafcee3c131940c33196f02 refs/tags/0.20200225.1
+697fb93ee29def0198c456118b69bdfea9a02a5d refs/tags/0.20200225.2
+ff5f5f0a3d3266836b9d722bb73cabdf7057482e refs/tags/0.20200225.3
+fffc3c2729be5747390ad02d5100291a0d9ad26a refs/tags/0.20200225.4
+fd12fac3db76e18c6c3793f18c2d2e65eed8516f refs/tags/0.20220203.0
+d302de612e3d57c6f4afaf087da18fba8eac72a7 refs/tags/0.20220203.1

@@ -1,0 +1,21 @@
+# pack-refs with: peeled fully-peeled sorted 
+dd3eda2b05a3f459fc3073695ad1b28659066eab refs/heads/main
+cd04e3f0b8f381be7d87253969353128b3ebd3e4 refs/heads/paulb777-patch-1
+e801564e46fdd0d12774ce25039da14af36e6a5d refs/heads/rw-version-instructions
+555700adf5ff930d47bc3c0cb19a4fe4f7294cc2 refs/heads/rw-xcode13-fixes
+7edd2773f9f9cc292bf9649c3f07286d69b08aee refs/heads/stdlib-fix
+7edd2773f9f9cc292bf9649c3f07286d69b08aee refs/pull/1/head
+6fbad5bf8bd80a36d342bf1693e4423870124d4c refs/pull/2/head
+d5a37fa14a72fc87b6f32a8e3ea388079f67ea99 refs/pull/3/head
+ce3fdcc9d00c069f6d14d88bfed0b662448384df refs/pull/4/head
+555700adf5ff930d47bc3c0cb19a4fe4f7294cc2 refs/pull/5/head
+e801564e46fdd0d12774ce25039da14af36e6a5d refs/pull/6/head
+cd04e3f0b8f381be7d87253969353128b3ebd3e4 refs/pull/7/head
+b9aa8f7c6213e9bb64a4ca28ba00c30cf39eb337 refs/pull/8/head
+84ddbc22f2a6ad2fdbff6ddb231793245a7b77b5 refs/pull/9/head
+7bcafa2660bc58715c39637494550d1ed7cd7229 refs/tags/0.0.7
+22f4879721986806f5d6346c9ac31b5beb1092aa refs/tags/0.0.8
+6fbad5bf8bd80a36d342bf1693e4423870124d4c refs/tags/0.0.9
+15889fadef7078dfa1392b0e2b08f3d0e9797104 refs/tags/0.7.1
+734a8247442fde37df4364c21f6a0085b6a36728 refs/tags/0.7.2
+79db6516894a932d0ddaff3b05b9da1e4f6c4069 refs/tags/0.9.0

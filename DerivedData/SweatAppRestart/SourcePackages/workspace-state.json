@@ -1,0 +1,273 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "packageRef" : {
+          "identity" : "firebase-ios-sdk",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/firebase/firebase-ios-sdk",
+          "name" : "Firebase"
+        },
+        "path" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/artifacts/firebase-ios-sdk/FirebaseAnalytics.xcframework",
+        "source" : {
+          "checksum" : "5a0e2916e791904fa7be8e8a3c6913fc080ac8a050f3814ef18957e01d21d870",
+          "type" : "remote",
+          "url" : "https://dl.google.com/firebase/ios/swiftpm/9.1.0/FirebaseAnalytics.zip"
+        },
+        "targetName" : "FirebaseAnalytics"
+      },
+      {
+        "packageRef" : {
+          "identity" : "googleappmeasurement",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/google/GoogleAppMeasurement.git",
+          "name" : "GoogleAppMeasurement"
+        },
+        "path" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurement.xcframework",
+        "source" : {
+          "checksum" : "453a443040635cfb668b52edc1798ba3910fe2884d7a622f0b218d51c2e09601",
+          "type" : "remote",
+          "url" : "https://dl.google.com/firebase/ios/swiftpm/9.1.0/GoogleAppMeasurement.zip"
+        },
+        "targetName" : "GoogleAppMeasurement"
+      },
+      {
+        "packageRef" : {
+          "identity" : "googleappmeasurement",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/google/GoogleAppMeasurement.git",
+          "name" : "GoogleAppMeasurement"
+        },
+        "path" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurementIdentitySupport.xcframework",
+        "source" : {
+          "checksum" : "69c174cf559e8fea1f927e9a3bb8940d826d27265267321637401327e818e149",
+          "type" : "remote",
+          "url" : "https://dl.google.com/firebase/ios/swiftpm/9.1.0/GoogleAppMeasurementIdentitySupport.zip"
+        },
+        "targetName" : "GoogleAppMeasurementIdentitySupport"
+      },
+      {
+        "packageRef" : {
+          "identity" : "googleappmeasurement",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/google/GoogleAppMeasurement.git",
+          "name" : "GoogleAppMeasurement"
+        },
+        "path" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/artifacts/googleappmeasurement/GoogleAppMeasurementOnDeviceConversion.xcframework",
+        "source" : {
+          "checksum" : "820bee44781aa17782b7460e201307535c3c398b692e6228bd382ce6500dce29",
+          "type" : "remote",
+          "url" : "https://dl.google.com/firebase/ios/swiftpm/9.0.0/GoogleAppMeasurementOnDeviceConversion.zip"
+        },
+        "targetName" : "GoogleAppMeasurementOnDeviceConversion"
+      }
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "abseil-cpp-swiftpm",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/firebase/abseil-cpp-SwiftPM.git",
+          "name" : "abseil"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "d302de612e3d57c6f4afaf087da18fba8eac72a7",
+            "version" : "0.20220203.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "abseil-cpp-SwiftPM"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "boringssl-swiftpm",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/firebase/boringssl-SwiftPM.git",
+          "name" : "BoringSSL-GRPC"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "79db6516894a932d0ddaff3b05b9da1e4f6c4069",
+            "version" : "0.9.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "boringssl-SwiftPM"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "firebase-ios-sdk",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/firebase/firebase-ios-sdk",
+          "name" : "Firebase"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "e8828e8efc813817b3c2cbfde8e965f7a7a26641",
+            "version" : "9.2.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "firebase-ios-sdk"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "googleappmeasurement",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/google/GoogleAppMeasurement.git",
+          "name" : "GoogleAppMeasurement"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "192cce3e0486aecfdb61102a9c694c78dc89dc48",
+            "version" : "9.1.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "GoogleAppMeasurement"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "googledatatransport",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/google/GoogleDataTransport.git",
+          "name" : "GoogleDataTransport"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "b905c49326b72211531ed9d7baa02d724828a8dc",
+            "version" : "9.1.4"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "GoogleDataTransport"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "googleutilities",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/google/GoogleUtilities.git",
+          "name" : "GoogleUtilities"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "f4abe56ce62a779e64b525eb133c8fc2a84bbc1f",
+            "version" : "7.7.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "GoogleUtilities"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "grpc-ios",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/grpc/grpc-ios.git",
+          "name" : "gRPC"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "2af4f6e9c2b18beae228f50b1198c641be859d2b",
+            "version" : "1.44.2-grpc"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "grpc-ios"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "gtm-session-fetcher",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/google/gtm-session-fetcher.git",
+          "name" : "GTMSessionFetcher"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "19605024d59eaefdb1f6a2cb11ebe75df4421126",
+            "version" : "2.0.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "gtm-session-fetcher"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "leveldb",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/firebase/leveldb.git",
+          "name" : "leveldb"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "0706abcc6b0bd9cedfbb015ba840e4a780b5159b",
+            "version" : "1.22.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "leveldb"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "nanopb",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/firebase/nanopb.git",
+          "name" : "nanopb"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "819d0a2173aff699fb8c364b6fb906f7cdb1a692",
+            "version" : "2.30909.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "nanopb"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "promises",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/google/promises.git",
+          "name" : "Promises"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "3e4e743631e86c8c70dbc6efdc7beaa6e90fd3bb",
+            "version" : "2.1.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "promises"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-protobuf",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-protobuf.git",
+          "name" : "SwiftProtobuf"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "e1499bc69b9040b29184f7f2996f7bab467c1639",
+            "version" : "1.19.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-protobuf"
+      }
+    ]
+  },
+  "version" : 5
+}

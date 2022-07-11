@@ -1,0 +1,4 @@
+module FirebaseDatabase {
+umbrella header "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseDatabase/Sources/Public/FirebaseDatabase/FirebaseDatabase.h"
+export *
+}

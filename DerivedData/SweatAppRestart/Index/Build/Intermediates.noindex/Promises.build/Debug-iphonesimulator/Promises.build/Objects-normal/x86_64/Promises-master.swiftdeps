@@ -1,0 +1,43 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "4aba8c02abdcbd51202b766502ebd4aff5926d1284e34b990248df7a0b98842e"
+build_start_time: [1657351534, 117429971]
+build_end_time: [1657351534, 509070873]
+inputs:
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+All.swift"
+  : [1657346810, 592623710]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Always.swift"
+  : [1657346810, 593004703]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Any.swift"
+  : [1657346810, 593439579]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Async.swift"
+  : [1657346810, 593855381]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Await.swift"
+  : [1657346810, 594198703]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Catch.swift"
+  : [1657346810, 616811752]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Delay.swift"
+  : [1657346810, 617827653]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Do.swift"
+  : [1657346810, 618101119]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Race.swift"
+  : [1657346810, 618325471]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Recover.swift"
+  : [1657346810, 640482902]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Reduce.swift"
+  : [1657346810, 641960144]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Retry.swift"
+  : [1657346810, 642441272]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Testing.swift"
+  : [1657346810, 665528774]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Then.swift"
+  : [1657346810, 666338443]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Timeout.swift"
+  : [1657346810, 666589260]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Validate.swift"
+  : [1657346810, 666781425]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise+Wrap.swift"
+  : [1657346810, 666970729]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/Promise.swift"
+  : [1657346810, 668087482]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/promises/Sources/Promises/PromiseError.swift"
+  : [1657346810, 690784454]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "af4805977a2a90319ad321906f2d7cc4b4009f1359a93b436b6b6e60aa2ede31"
+build_start_time: [1657351103, 71671009]
+build_end_time: [1657351103, 968083858]
+inputs:
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseAnalyticsSwift/Sources/Analytics+SwiftUI.swift"
+  : [1657346821, 619144439]

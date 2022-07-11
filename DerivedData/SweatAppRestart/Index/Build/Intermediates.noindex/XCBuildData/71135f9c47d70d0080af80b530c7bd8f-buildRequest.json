@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "10703819e4e7338b429521a92b9988b4ae21db6c421a9415881ee92031653151"
+    }
+  ],
+  "containerPath" : "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Index/Build/Products",
+      "derivedDataPath" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

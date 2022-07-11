@@ -1,0 +1,4 @@
+module FirebaseInAppMessaging {
+umbrella header "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseInAppMessaging/Sources/Public/FirebaseInAppMessaging/FirebaseInAppMessaging.h"
+export *
+}

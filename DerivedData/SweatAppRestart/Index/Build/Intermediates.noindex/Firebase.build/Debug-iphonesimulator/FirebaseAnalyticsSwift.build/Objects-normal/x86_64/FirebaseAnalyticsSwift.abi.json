@@ -1,0 +1,433 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "FirebaseAnalytics",
+      "printedName": "FirebaseAnalytics",
+      "declKind": "Import",
+      "moduleName": "FirebaseAnalyticsSwift"
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftUI",
+      "printedName": "SwiftUI",
+      "declKind": "Import",
+      "moduleName": "FirebaseAnalyticsSwift"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "LoggedAnalyticsModifier",
+      "printedName": "LoggedAnalyticsModifier",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "screenName",
+          "printedName": "screenName",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV10screenNameSSvp",
+          "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV10screenNameSSvp",
+          "moduleName": "FirebaseAnalyticsSwift",
+          "declAttributes": [
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 0,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV10screenNameSSvg",
+              "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV10screenNameSSvg",
+              "moduleName": "FirebaseAnalyticsSwift",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "screenClass",
+          "printedName": "screenClass",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV11screenClassSSvp",
+          "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV11screenClassSSvp",
+          "moduleName": "FirebaseAnalyticsSwift",
+          "declAttributes": [
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 1,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV11screenClassSSvg",
+              "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV11screenClassSSvg",
+              "moduleName": "FirebaseAnalyticsSwift",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "extraParameters",
+          "printedName": "extraParameters",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV15extraParametersSDySSypGvp",
+          "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV15extraParametersSDySSypGvp",
+          "moduleName": "FirebaseAnalyticsSwift",
+          "declAttributes": [
+            "HasStorage",
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 2,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Swift.String : Any]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV15extraParametersSDySSypGvg",
+              "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV15extraParametersSDySSypGvg",
+              "moduleName": "FirebaseAnalyticsSwift",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "body",
+          "printedName": "body(content:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some SwiftUI.View",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "SwiftUI.View",
+                  "usr": "s:7SwiftUI4ViewP"
+                }
+              ]
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "_ViewModifier_Content",
+              "printedName": "SwiftUI._ViewModifier_Content<FirebaseAnalyticsSwift.LoggedAnalyticsModifier>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "LoggedAnalyticsModifier",
+                  "printedName": "FirebaseAnalyticsSwift.LoggedAnalyticsModifier",
+                  "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV"
+                }
+              ],
+              "usr": "s:7SwiftUI21_ViewModifier_ContentV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV4body7contentQr0C2UI05_ViewE8_ContentVyACG_tF",
+          "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV4body7contentQr0C2UI05_ViewE8_ContentVyACG_tF",
+          "moduleName": "FirebaseAnalyticsSwift",
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(screenName:screenClass:extraParameters:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "LoggedAnalyticsModifier",
+              "printedName": "FirebaseAnalyticsSwift.LoggedAnalyticsModifier",
+              "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV10screenName0F5Class15extraParametersACSS_SSSDySSypGtcfc",
+          "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV10screenName0F5Class15extraParametersACSS_SSSDySSypGtcfc",
+          "moduleName": "FirebaseAnalyticsSwift",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:22FirebaseAnalyticsSwift06LoggedB8ModifierV",
+      "mangledName": "$s22FirebaseAnalyticsSwift06LoggedB8ModifierV",
+      "moduleName": "FirebaseAnalyticsSwift",
+      "intro_Macosx": "10.15",
+      "intro_iOS": "13.0",
+      "intro_tvOS": "13.0",
+      "declAttributes": [
+        "AccessControl",
+        "Available",
+        "Available",
+        "Available",
+        "Available",
+        "Available",
+        "RawDocComment"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "ViewModifier",
+          "printedName": "ViewModifier",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI12ViewModifierP",
+          "mangledName": "$s7SwiftUI12ViewModifierP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "View",
+      "printedName": "View",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "analyticsScreen",
+          "printedName": "analyticsScreen(name:class:extraParameters:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some SwiftUI.View",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "SwiftUI.View",
+                  "usr": "s:7SwiftUI4ViewP"
+                }
+              ]
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Swift.String : Any]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ProtocolComposition",
+                  "printedName": "Any"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:7SwiftUI4ViewP017FirebaseAnalyticsA0E15analyticsScreen4name5class15extraParametersQrSS_SSSDySSypGtF",
+          "mangledName": "$s7SwiftUI4ViewP017FirebaseAnalyticsA0E15analyticsScreen4name5class15extraParametersQrSS_SSSDySSypGtF",
+          "moduleName": "FirebaseAnalyticsSwift",
+          "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+          "sugared_genericSig": "<Self where Self : SwiftUI.View>",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Protocol",
+      "usr": "s:7SwiftUI4ViewP",
+      "mangledName": "$s7SwiftUI4ViewP",
+      "moduleName": "SwiftUI",
+      "genericSig": "<τ_0_0.Body : SwiftUI.View>",
+      "sugared_genericSig": "<Self.Body : SwiftUI.View>",
+      "intro_Macosx": "10.15",
+      "intro_iOS": "13.0",
+      "intro_tvOS": "13.0",
+      "intro_watchOS": "6.0",
+      "declAttributes": [
+        "TypeEraser",
+        "Available",
+        "Available",
+        "Available",
+        "Available"
+      ],
+      "isExternal": true
+    }
+  ],
+  "json_format_version": 6
+}

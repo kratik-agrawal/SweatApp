@@ -1,0 +1,4 @@
+module GoogleUtilities_ISASwizzler {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/GoogleUtilities/GoogleUtilities/ISASwizzler/Public"
+export *
+}

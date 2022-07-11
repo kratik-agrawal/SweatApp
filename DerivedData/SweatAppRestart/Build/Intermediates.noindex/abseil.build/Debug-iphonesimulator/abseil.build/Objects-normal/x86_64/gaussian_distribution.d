@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/random/gaussian_distribution.cc \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/random/gaussian_distribution.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/config.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/options.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/policy_checks.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/random/internal/fast_uniform_bits.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/meta/type_traits.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/random/internal/generate_real.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/numeric/bits.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/attributes.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/numeric/internal/bits.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/random/internal/fastmath.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/random/internal/traits.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/random/internal/iostream_state_saver.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/numeric/int128.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/macros.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/optimization.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/port.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/numeric/int128_have_intrinsic.inc

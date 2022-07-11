@@ -1,0 +1,4 @@
+module gRPC_cpp {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/spm-cpp-include"
+export *
+}

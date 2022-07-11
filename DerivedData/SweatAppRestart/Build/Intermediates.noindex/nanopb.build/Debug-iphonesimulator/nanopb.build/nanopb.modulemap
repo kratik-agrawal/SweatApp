@@ -1,0 +1,4 @@
+module nanopb {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/nanopb/spm_headers"
+export *
+}

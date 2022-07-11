@@ -1,0 +1,4 @@
+module abseil {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM"
+export *
+}

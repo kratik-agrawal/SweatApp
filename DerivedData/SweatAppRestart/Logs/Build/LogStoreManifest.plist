@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1329BD8C-65BA-4BE7-B406-E7464BCFBC20</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1329BD8C-65BA-4BE7-B406-E7464BCFBC20.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>679209112.66267705</real>
+			<key>timeStoppedRecording</key>
+			<real>679209117.838153</real>
+			<key>title</key>
+			<string>Build SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>1329BD8C-65BA-4BE7-B406-E7464BCFBC20</string>
+		</dict>
+		<key>3E22B927-29AF-416C-8EBD-80BB5EF4D419</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3E22B927-29AF-416C-8EBD-80BB5EF4D419.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>679209327.18068695</real>
+			<key>timeStoppedRecording</key>
+			<real>679209351.72048104</real>
+			<key>title</key>
+			<string>Build SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>3E22B927-29AF-416C-8EBD-80BB5EF4D419</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

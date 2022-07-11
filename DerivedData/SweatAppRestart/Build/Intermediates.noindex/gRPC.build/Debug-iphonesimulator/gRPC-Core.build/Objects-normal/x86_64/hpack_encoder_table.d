@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/transport/chttp2/transport/hpack_encoder_table.cc \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/spm-core-include/grpc/support/port_platform.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/spm-core-include/grpc/impl/codegen/port_platform.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/transport/chttp2/transport/hpack_encoder_table.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/container/inlined_vector.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/algorithm/algorithm.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/config.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/options.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/policy_checks.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/internal/throw_delegate.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/macros.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/attributes.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/optimization.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/port.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/container/internal/inlined_vector.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/container/internal/compressed_tuple.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/utility/utility.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/internal/inline_variable.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/internal/identity.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/base/internal/invoke.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/meta/type_traits.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/memory/memory.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/types/span.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/abseil-cpp-SwiftPM/absl/types/internal/span.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/transport/chttp2/transport/hpack_constants.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/spm-core-include/grpc/support/log.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/spm-core-include/grpc/impl/codegen/log.h

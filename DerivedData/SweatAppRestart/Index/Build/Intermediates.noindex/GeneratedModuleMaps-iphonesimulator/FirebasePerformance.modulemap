@@ -1,0 +1,4 @@
+module FirebasePerformance {
+umbrella header "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebasePerformance/Sources/Public/FirebasePerformance/FirebasePerformance.h"
+export *
+}

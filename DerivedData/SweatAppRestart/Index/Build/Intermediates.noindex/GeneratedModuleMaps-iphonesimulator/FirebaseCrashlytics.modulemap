@@ -1,0 +1,4 @@
+module FirebaseCrashlytics {
+umbrella header "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/Crashlytics/Public/FirebaseCrashlytics/FirebaseCrashlytics.h"
+export *
+}

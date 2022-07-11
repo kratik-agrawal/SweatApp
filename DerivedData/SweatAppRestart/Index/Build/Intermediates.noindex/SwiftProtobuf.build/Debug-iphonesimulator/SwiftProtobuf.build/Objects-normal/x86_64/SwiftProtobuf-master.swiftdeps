@@ -1,0 +1,173 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "3ee6ac2b7582d8dc99624d881706ebdb462c13b9c497db7d96373b8c9368a492"
+build_start_time: [1657351089, 327392101]
+build_end_time: [1657351094, 536692142]
+inputs:
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/AnyMessageStorage.swift"
+  : [1657346806, 711607456]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/AnyUnpackError.swift"
+  : [1657346806, 711826801]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/BinaryDecoder.swift"
+  : [1657346806, 712245464]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/BinaryDecodingError.swift"
+  : [1657346806, 712459087]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/BinaryDecodingOptions.swift"
+  : [1657346806, 712639808]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/BinaryDelimited.swift"
+  : [1657346806, 712831497]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/BinaryEncoder.swift"
+  : [1657346806, 713036298]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/BinaryEncodingError.swift"
+  : [1657346806, 713352203]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/BinaryEncodingSizeVisitor.swift"
+  : [1657346806, 713634490]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/BinaryEncodingVisitor.swift"
+  : [1657346806, 713938236]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/CustomJSONCodable.swift"
+  : [1657346806, 715300083]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Data+Extensions.swift"
+  : [1657346806, 715766429]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Decoder.swift"
+  : [1657346806, 715962648]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/DoubleParser.swift"
+  : [1657346806, 716186523]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Enum.swift"
+  : [1657346806, 716377258]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/ExtensibleMessage.swift"
+  : [1657346806, 759881496]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/ExtensionFieldValueSet.swift"
+  : [1657346806, 761607885]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/ExtensionFields.swift"
+  : [1657346806, 762285232]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/ExtensionMap.swift"
+  : [1657346806, 764679193]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/FieldTag.swift"
+  : [1657346806, 765048027]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/FieldTypes.swift"
+  : [1657346806, 765422821]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_Any+Extensions.swift"
+  : [1657346806, 765743970]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_Any+Registry.swift"
+  : [1657346806, 766491413]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_Duration+Extensions.swift"
+  : [1657346806, 766876220]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_FieldMask+Extensions.swift"
+  : [1657346806, 767186880]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_ListValue+Extensions.swift"
+  : [1657346806, 767521381]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_NullValue+Extensions.swift"
+  : [1657346806, 767804622]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_Struct+Extensions.swift"
+  : [1657346806, 768028736]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_Timestamp+Extensions.swift"
+  : [1657346806, 768328666]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_Value+Extensions.swift"
+  : [1657346806, 768578052]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Google_Protobuf_Wrappers+Extensions.swift"
+  : [1657346806, 768846988]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/HashVisitor.swift"
+  : [1657346806, 769089698]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Internal.swift"
+  : [1657346806, 769304752]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONDecoder.swift"
+  : [1657346806, 769603729]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONDecodingError.swift"
+  : [1657346806, 769866704]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONDecodingOptions.swift"
+  : [1657346806, 770062923]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONEncoder.swift"
+  : [1657346806, 770407199]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONEncodingError.swift"
+  : [1657346806, 770627021]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONEncodingOptions.swift"
+  : [1657346806, 770816326]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONEncodingVisitor.swift"
+  : [1657346806, 771169662]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONMapEncodingVisitor.swift"
+  : [1657346806, 771413564]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/JSONScanner.swift"
+  : [1657346806, 772461891]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/MathUtils.swift"
+  : [1657346806, 772776126]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Message+AnyAdditions.swift"
+  : [1657346806, 772983074]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Message+BinaryAdditions.swift"
+  : [1657346806, 773202180]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Message+JSONAdditions.swift"
+  : [1657346806, 773461103]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Message+JSONArrayAdditions.swift"
+  : [1657346806, 773633003]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Message+TextFormatAdditions.swift"
+  : [1657346806, 773824214]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Message.swift"
+  : [1657346806, 774096012]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/MessageExtension.swift"
+  : [1657346806, 774283885]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/NameMap.swift"
+  : [1657346806, 774503231]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/ProtoNameProviding.swift"
+  : [1657346806, 774681806]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/ProtobufAPIVersionCheck.swift"
+  : [1657346806, 774872779]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/ProtobufMap.swift"
+  : [1657346806, 775043010]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/SelectiveVisitor.swift"
+  : [1657346806, 775228500]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/SimpleExtensionMap.swift"
+  : [1657346806, 775418043]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/StringUtils.swift"
+  : [1657346806, 775659322]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/TextFormatDecoder.swift"
+  : [1657346806, 775921583]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/TextFormatDecodingError.swift"
+  : [1657346806, 776171207]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/TextFormatDecodingOptions.swift"
+  : [1657346806, 776346683]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/TextFormatEncoder.swift"
+  : [1657346806, 776503324]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/TextFormatEncodingOptions.swift"
+  : [1657346806, 776682853]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/TextFormatEncodingVisitor.swift"
+  : [1657346806, 776863098]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/TextFormatScanner.swift"
+  : [1657346806, 777286529]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/TimeUtils.swift"
+  : [1657346806, 777544498]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/UnknownStorage.swift"
+  : [1657346806, 777724266]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/UnsafeBufferPointer+Shims.swift"
+  : [1657346806, 777908086]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/UnsafeRawPointer+Shims.swift"
+  : [1657346806, 778064966]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Varint.swift"
+  : [1657346806, 778244972]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Version.swift"
+  : [1657346806, 778418779]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/Visitor.swift"
+  : [1657346806, 779005050]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/WireFormat.swift"
+  : [1657346806, 779243946]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/ZigZag.swift"
+  : [1657346806, 779410123]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/any.pb.swift"
+  : [1657346806, 779558181]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/api.pb.swift"
+  : [1657346806, 779742240]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/descriptor.pb.swift"
+  : [1657346806, 780481815]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/duration.pb.swift"
+  : [1657346806, 780686855]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/empty.pb.swift"
+  : [1657346806, 780908584]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/field_mask.pb.swift"
+  : [1657346806, 781070232]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/source_context.pb.swift"
+  : [1657346806, 781239509]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/struct.pb.swift"
+  : [1657346806, 781837940]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/timestamp.pb.swift"
+  : [1657346806, 782045841]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/type.pb.swift"
+  : [1657346806, 782283782]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/swift-protobuf/Sources/SwiftProtobuf/wrappers.pb.swift"
+  : [1657346806, 782521247]

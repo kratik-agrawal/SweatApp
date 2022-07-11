@@ -1,0 +1,28 @@
+{
+  "source": "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/Previews/SweatAppRestart/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/LoginView.5.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Reset Password view..."
+      },
+      {
+        "comment": "",
+        "key": "Forgot Password?"
+      },
+      {
+        "comment": "",
+        "key": "Sign In"
+      },
+      {
+        "comment": "",
+        "key": "Don't have an account?"
+      },
+      {
+        "comment": "",
+        "key": "Sign Up"
+      }
+    ]
+  },
+  "version": 1
+}

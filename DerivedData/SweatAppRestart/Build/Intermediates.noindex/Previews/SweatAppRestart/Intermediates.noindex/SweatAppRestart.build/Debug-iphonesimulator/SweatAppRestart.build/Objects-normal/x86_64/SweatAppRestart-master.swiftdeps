@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "1f9836559ceb6bc0a3e4cce06e042457fedbe7baf637eecaa37eeb0032a1779c"
+build_start_time: [1657345995, 963941097]
+build_end_time: [1657345997, 196864128]
+inputs:
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/ContentView.swift": [1657335708, 792635440]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/Views/LoginView.swift": [1657345477, 458532333]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/Views/RegisterView.swift": [1657345988, 983469963]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Components/Authentication/AuthenticationHeaderView.swift": [1657345409, 928557872]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Components/CustomTextField.swift": [1657345190, 641992092]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Components/RoundedShape.swift": [1657343080, 524068117]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Feed/View/FeedView.swift": [1657333206, 159257650]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/MainTab/MainTabView.swift": [1657333176, 728078842]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Notifications/NotificationView.swift": [1657331663, 794312477]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Profile/Views/ProfileView.swift": [1657333152, 883875846]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/SideMenu/ViewModel/SideMenuViewModel.swift": [1657333698, 353142261]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/SideMenu/Views/SideMenuOptionRowView.swift": [1657335664, 497894763]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/SideMenu/Views/SideMenuView.swift": [1657335792, 656299352]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Verify/VerifyView.swift": [1657331876, 72034835]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/SweatAppRestartApp.swift": [1657344360, 771510601]

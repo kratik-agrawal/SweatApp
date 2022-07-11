@@ -1,0 +1,28 @@
+{
+  "source": "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/Views/LoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Reset Password view..."
+      },
+      {
+        "comment": "",
+        "key": "Forgot Password?"
+      },
+      {
+        "comment": "",
+        "key": "Sign In"
+      },
+      {
+        "comment": "",
+        "key": "Don't have an account?"
+      },
+      {
+        "comment": "",
+        "key": "Sign Up"
+      }
+    ]
+  },
+  "version": 1
+}

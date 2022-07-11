@@ -1,0 +1,20 @@
+{
+  "source": "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/Previews/SweatAppRestart/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/RegisterView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sign Up"
+      },
+      {
+        "comment": "",
+        "key": "Already have an account?"
+      },
+      {
+        "comment": "",
+        "key": "Sign In"
+      }
+    ]
+  },
+  "version": 1
+}

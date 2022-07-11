@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1657330600, 475324153]
+build_end_time: [1657330607, 430224895]
+inputs:
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/ContentView.swift": [1657330381, 140057802]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Feed/View/FeedView.swift": [1657330579, 759577751]
+  "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/SweatAppRestartApp.swift": [1657330381, 118565082]
