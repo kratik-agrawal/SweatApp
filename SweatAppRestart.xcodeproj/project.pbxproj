@@ -24,7 +24,6 @@
 		35B463B028791DA2004EA95B /* SideMenuViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B463AF28791DA2004EA95B /* SideMenuViewModel.swift */; };
 		35C5916B28794953001BBE10 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C5916A28794953001BBE10 /* CustomTextField.swift */; };
 		35C5916E28794C9C001BBE10 /* AuthenticationHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C5916D28794C9C001BBE10 /* AuthenticationHeaderView.swift */; };
-		35C59170287950E0001BBE10 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 35C5916F287950E0001BBE10 /* GoogleService-Info.plist */; };
 		35C5917328796190001BBE10 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 35C5917228796190001BBE10 /* FirebaseAuth */; };
 		35C5917528796190001BBE10 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 35C5917428796190001BBE10 /* FirebaseFirestore */; };
 		35C5917728796190001BBE10 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 35C5917628796190001BBE10 /* FirebaseFirestoreSwift */; };
@@ -32,6 +31,7 @@
 		35C5917B28796313001BBE10 /* AuthViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C5917A28796313001BBE10 /* AuthViewModel.swift */; };
 		35C5917D2879F2DF001BBE10 /* UserService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C5917C2879F2DF001BBE10 /* UserService.swift */; };
 		35C5917F2879F5D2001BBE10 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35C5917E2879F5D2001BBE10 /* User.swift */; };
+		C487A6C628837B4400C309CE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C487A6C528837B4300C309CE /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,10 +53,10 @@
 		35B463AF28791DA2004EA95B /* SideMenuViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuViewModel.swift; sourceTree = "<group>"; };
 		35C5916A28794953001BBE10 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		35C5916D28794C9C001BBE10 /* AuthenticationHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationHeaderView.swift; sourceTree = "<group>"; };
-		35C5916F287950E0001BBE10 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		35C5917A28796313001BBE10 /* AuthViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthViewModel.swift; sourceTree = "<group>"; };
 		35C5917C2879F2DF001BBE10 /* UserService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserService.swift; sourceTree = "<group>"; };
 		35C5917E2879F5D2001BBE10 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		C487A6C528837B4300C309CE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,10 +123,10 @@
 				35B4638F2879128E004EA95B /* Core */,
 				35B4638D28791279004EA95B /* Model */,
 				35B4638C28791263004EA95B /* Extensions */,
+				C487A6C528837B4300C309CE /* GoogleService-Info.plist */,
 				35B4637E2879124D004EA95B /* SweatAppRestartApp.swift */,
 				35B463802879124D004EA95B /* ContentView.swift */,
 				35B463822879124F004EA95B /* Assets.xcassets */,
-				35C5916F287950E0001BBE10 /* GoogleService-Info.plist */,
 				35B463842879124F004EA95B /* Preview Content */,
 			);
 			path = SweatAppRestart;
@@ -362,8 +362,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				35B463862879124F004EA95B /* Preview Assets.xcassets in Resources */,
+				C487A6C628837B4400C309CE /* GoogleService-Info.plist in Resources */,
 				35B463832879124F004EA95B /* Assets.xcassets in Resources */,
-				35C59170287950E0001BBE10 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

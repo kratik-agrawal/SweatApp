@@ -30,7 +30,7 @@ struct MainTabView: View {
                     self.selectedIndex = 2
                 }
                 .tabItem{
-                    Image(systemName: "questionmark")
+                    Image(systemName: "person.fill")
                 }.tag(2)
             
         }

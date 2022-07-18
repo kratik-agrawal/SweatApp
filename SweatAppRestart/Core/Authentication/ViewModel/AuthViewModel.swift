@@ -53,7 +53,9 @@ class AuthViewModel: ObservableObject {
             let data = ["email":email,
                         "username": username.lowercased(),
                         "fullname": fullname,
-                        "uid": user.uid]
+                        "uid": user.uid,
+                        "deposited": "0",
+                        "balance": "0"]
             
             Firestore.firestore().collection("users")
                 .document(user.uid)
