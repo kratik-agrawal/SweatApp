@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
 options: "7123ef0d1fbd5b52f63b5d4b6d9bdf7d9ed3af8a703029cc93503293e72e088e"
-build_start_time: [1657351022, 135767936]
-build_end_time: [1657351025, 182242870]
+build_start_time: [1658811963, 951115131]
+build_end_time: [1658811964, 19871950]
 inputs:
   ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorage/Sources/AsyncAwait.swift"
   : [1657346823, 562855243]

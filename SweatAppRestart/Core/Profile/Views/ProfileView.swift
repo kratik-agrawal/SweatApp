@@ -11,11 +11,8 @@ import Kingfisher
 struct ProfileView: View {
     @EnvironmentObject var authViewModel: AuthViewModel
     @Environment(\.presentationMode) var mode
-    //    init() {
-    //
-    //    }
     
-    
+
     var body: some View {
     
         VStack() {
@@ -26,20 +23,18 @@ struct ProfileView: View {
                         .ignoresSafeArea()
                     
                     VStack {
-                
                         KFImage(URL(string: user.profileImageUrl))
                             .resizable()
                             .scaledToFill()
                             .clipShape(Circle())
                             .frame(width:150, height:150)
                             .offset(x:120, y:65)
-                        //.foregroundColor(.gray)
                     }
                     
                 }
                 .frame(height: 80)
-                .padding(.bottom)
-                //.offset(y:-125)
+                .padding(.bottom, 50)
+                
             }
             
             if let user = authViewModel.currentUser {
@@ -50,11 +45,9 @@ struct ProfileView: View {
                         .foregroundColor(.orange )
                     //.offset()
                     
-                    
                     HStack() {
                         Image(systemName: "envelope")
                         Text(user.email)
-                        
                     }
                     
                 }
@@ -114,28 +107,6 @@ struct ProfileView_Previews: PreviewProvider {
 
 extension ProfileView{
     
-    //    var userInfoDetails: some View {
-    //        if let user = authViewModel.currentUser {
-    //            VStack(spacing: 8) {
-    //
-    //                Text("@\(user.username)")
-    //                    .font(.title).bold()
-    //                    .foregroundColor(.orange )
-    //                    //.offset()
-    //
-    //
-    //                HStack() {
-    //                    Image(systemName: "envelope")
-    //                    Text(user.email)
-    //
-    //                }
-    //
-    //            }
-    //            .padding(.horizontal)
-    //            .offset(y: 60)
-    //        }
-    //
-    //    }
     
     var userStatistics: some View {
         VStack(spacing: 15){

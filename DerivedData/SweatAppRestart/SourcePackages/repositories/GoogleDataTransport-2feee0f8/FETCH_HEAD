@@ -1,0 +1,82 @@
+2c7a8b129abccd94a66782cc053452c65c08e049	not-for-merge	branch 'client-metrics' of https://github.com/google/GoogleDataTransport.git
+5056b15c5acbb90cd214fe4d6138bdf5a740e5a8	not-for-merge	branch 'main' of https://github.com/google/GoogleDataTransport.git
+315ec8580fe79c908158b406f9b3bf755dc531d0	not-for-merge	branch 'mm/client-metrics3' of https://github.com/google/GoogleDataTransport.git
+db073f0690b9d2b53c5233d36868ad298e3cdfb2	not-for-merge	branch 'mm/promises-todo' of https://github.com/google/GoogleDataTransport.git
+d1f806427d95684f2d1188fbd277f975a6fb3a76	not-for-merge	branch 'nc/metrics-proto' of https://github.com/google/GoogleDataTransport.git
+dd55bc048cca300e576659a3b36a5dc5fd4af6b1	not-for-merge	branch 'rework-errors' of https://github.com/google/GoogleDataTransport.git
+5119ccfc201387098960621eeb2fb3aaa3d82f7e	not-for-merge	branch 'storage-metrics' of https://github.com/google/GoogleDataTransport.git
+e9db0912519d38f666197140a5e453d1b94787dd	not-for-merge	'refs/pull/1/head' of https://github.com/google/GoogleDataTransport.git
+8771dbf1b709b37a6660d8270494ba161c0eb097	not-for-merge	'refs/pull/11/head' of https://github.com/google/GoogleDataTransport.git
+6e2be749ef5b8e725089f8f2af1ea218799e82c4	not-for-merge	'refs/pull/12/head' of https://github.com/google/GoogleDataTransport.git
+f570adf428e488b8afa4e15eb856dceca60b233e	not-for-merge	'refs/pull/13/head' of https://github.com/google/GoogleDataTransport.git
+c37b573e2002d88e5af81ca294d3bc1eb29e20fc	not-for-merge	'refs/pull/15/head' of https://github.com/google/GoogleDataTransport.git
+a568c57eaf67052999bb03fec88744cf0ab69f6d	not-for-merge	'refs/pull/16/head' of https://github.com/google/GoogleDataTransport.git
+32d51d6026db0adb5f92ffa71fbbace0b331beff	not-for-merge	'refs/pull/17/head' of https://github.com/google/GoogleDataTransport.git
+9382eec6b4cc9ae164938425b84ef78e7e975f8c	not-for-merge	'refs/pull/18/head' of https://github.com/google/GoogleDataTransport.git
+90175abea8d39e9aeae868927e0abb7080438fe6	not-for-merge	'refs/pull/19/head' of https://github.com/google/GoogleDataTransport.git
+81bb09402f9a3711d7058ef00fcdcf7a6c76c19c	not-for-merge	'refs/pull/2/head' of https://github.com/google/GoogleDataTransport.git
+767e15337e02bb1228cf190e14cad6a55570dc29	not-for-merge	'refs/pull/20/head' of https://github.com/google/GoogleDataTransport.git
+774f0120840ab38305484d593fa22b1cb3402def	not-for-merge	'refs/pull/22/head' of https://github.com/google/GoogleDataTransport.git
+e0c0ecb5fa2e76a280c9ad6b0add66423da339bf	not-for-merge	'refs/pull/23/head' of https://github.com/google/GoogleDataTransport.git
+775137133df37206e846324a29a6ae7dd7cfbea1	not-for-merge	'refs/pull/25/head' of https://github.com/google/GoogleDataTransport.git
+b2c1fcd54dd53992fa731eaa85bdfaf2e345cd35	not-for-merge	'refs/pull/26/head' of https://github.com/google/GoogleDataTransport.git
+0b452be96f909d008e19d4755ad832ffe20e237a	not-for-merge	'refs/pull/27/head' of https://github.com/google/GoogleDataTransport.git
+1b1eae0b928b5aca5d213d1760d8c47e5b5f568d	not-for-merge	'refs/pull/28/head' of https://github.com/google/GoogleDataTransport.git
+84f83c1669b20706e6040bdbe75865f3a28882df	not-for-merge	'refs/pull/29/head' of https://github.com/google/GoogleDataTransport.git
+527f6cd41889e23a7dd7f42ace0c36cceccb0fcf	not-for-merge	'refs/pull/3/head' of https://github.com/google/GoogleDataTransport.git
+00b4b086076a0ce04ccba3c31cf9674d1c6798d1	not-for-merge	'refs/pull/31/head' of https://github.com/google/GoogleDataTransport.git
+d6097d4dfcbad575cd0dc82dae8ad29a2e63af1e	not-for-merge	'refs/pull/32/head' of https://github.com/google/GoogleDataTransport.git
+db59acc48145864ca045f6625f702a67bf596efc	not-for-merge	'refs/pull/34/head' of https://github.com/google/GoogleDataTransport.git
+78196dfd01f440d8c6d554139516ac505ac0902c	not-for-merge	'refs/pull/35/head' of https://github.com/google/GoogleDataTransport.git
+88e3147c307c0221833ba6b75c1e75ea03478fd5	not-for-merge	'refs/pull/36/head' of https://github.com/google/GoogleDataTransport.git
+a21ab490b45b58baa33f292d3c294b96c8c9b2a9	not-for-merge	'refs/pull/37/head' of https://github.com/google/GoogleDataTransport.git
+dec78f6fb0ae04782c8e0a844e25b85529568a88	not-for-merge	'refs/pull/38/head' of https://github.com/google/GoogleDataTransport.git
+279fc81926c8e4d2b45a63fbce653b3cc5468f30	not-for-merge	'refs/pull/39/head' of https://github.com/google/GoogleDataTransport.git
+346b269613ffd4febe7cafeeea345ecb9df0b175	not-for-merge	'refs/pull/4/head' of https://github.com/google/GoogleDataTransport.git
+9ca0c8d14cf1fc98b518f8cedc7567f033db1dab	not-for-merge	'refs/pull/40/head' of https://github.com/google/GoogleDataTransport.git
+1b2dede5e1dec2a991425b98fc657033ec13dae9	not-for-merge	'refs/pull/41/head' of https://github.com/google/GoogleDataTransport.git
+951d7e0c93908e33bfe05c11de258e3f2d695636	not-for-merge	'refs/pull/42/head' of https://github.com/google/GoogleDataTransport.git
+ced8f58f8ebb425faa28a7edd0e872f17dfb3743	not-for-merge	'refs/pull/43/head' of https://github.com/google/GoogleDataTransport.git
+a3cbd9239d606d90e71cddc98e4db6419031c6b3	not-for-merge	'refs/pull/44/head' of https://github.com/google/GoogleDataTransport.git
+130100aa2afaea44736d4e5c9512c1facfdd84ca	not-for-merge	'refs/pull/45/head' of https://github.com/google/GoogleDataTransport.git
+ba54d0537f07e0e6cb12cc49d4a95f1805b6a4b8	not-for-merge	'refs/pull/46/head' of https://github.com/google/GoogleDataTransport.git
+18bcf779352c3d36fa336b0b3b5936df6f8ba26f	not-for-merge	'refs/pull/48/head' of https://github.com/google/GoogleDataTransport.git
+e48cc3f0e1c03ae7010676a4dec36780570c6379	not-for-merge	'refs/pull/49/head' of https://github.com/google/GoogleDataTransport.git
+4a142e79fe74ba531c98255ba8448af41f71a607	not-for-merge	'refs/pull/5/head' of https://github.com/google/GoogleDataTransport.git
+ef195666932e663cd6ee1bc810da1c9d0b48ac06	not-for-merge	'refs/pull/50/head' of https://github.com/google/GoogleDataTransport.git
+cc14b02c59c1cad66dedd82f82fc1abf8dd91c6e	not-for-merge	'refs/pull/51/head' of https://github.com/google/GoogleDataTransport.git
+357a61402f4c6fe24806ed8c6165c0972c3b6eae	not-for-merge	'refs/pull/52/head' of https://github.com/google/GoogleDataTransport.git
+e79ed8e80faa3e22094ec85344b8933f02e3a4ff	not-for-merge	'refs/pull/53/head' of https://github.com/google/GoogleDataTransport.git
+dad81ce7b8e7b4c06e14a010dd248b63a8efc00c	not-for-merge	'refs/pull/54/head' of https://github.com/google/GoogleDataTransport.git
+dd55bc048cca300e576659a3b36a5dc5fd4af6b1	not-for-merge	'refs/pull/55/head' of https://github.com/google/GoogleDataTransport.git
+81ac7737f755964b395c886e14fcddb13e92a134	not-for-merge	'refs/pull/57/head' of https://github.com/google/GoogleDataTransport.git
+0a52c5bef76b4c2a486bd0bca89d794f2debb91c	not-for-merge	'refs/pull/58/head' of https://github.com/google/GoogleDataTransport.git
+b4edb4ae6b6ae69b24c2da7341c9d5da176dab76	not-for-merge	'refs/pull/59/head' of https://github.com/google/GoogleDataTransport.git
+60ce91a47deec56ca1d9099cf04b34dcc298d7b5	not-for-merge	'refs/pull/6/head' of https://github.com/google/GoogleDataTransport.git
+6b48ce3305e541799a28a2734b0d357c14de35b7	not-for-merge	'refs/pull/60/head' of https://github.com/google/GoogleDataTransport.git
+7774fc3d517befab47585a5e29fea9d6f705cb8d	not-for-merge	'refs/pull/61/head' of https://github.com/google/GoogleDataTransport.git
+bfbaa209e9d89eee1a29ade3865d1cf8a18fcefa	not-for-merge	'refs/pull/62/head' of https://github.com/google/GoogleDataTransport.git
+1c37aa60530ef35c4d52f9e30b2752ad4d47f45f	not-for-merge	'refs/pull/63/head' of https://github.com/google/GoogleDataTransport.git
+5c5c9ad412e41cda73b381c116a83054f013c9a7	not-for-merge	'refs/pull/64/head' of https://github.com/google/GoogleDataTransport.git
+c23b02aac09b6328f85639253e10c39b0213d167	not-for-merge	'refs/pull/65/head' of https://github.com/google/GoogleDataTransport.git
+daa581d4e44ae6352988f60a6384dd2d43e194ce	not-for-merge	'refs/pull/66/head' of https://github.com/google/GoogleDataTransport.git
+fa38801830a98d756b8ab3b7d2d274dbb7eb4923	not-for-merge	'refs/pull/67/head' of https://github.com/google/GoogleDataTransport.git
+ce7885ccfeca9d960e1b1394118e188df9051260	not-for-merge	'refs/pull/68/head' of https://github.com/google/GoogleDataTransport.git
+d65599330e5520a4dc51aeb1b508b5e16c53ad7e	not-for-merge	'refs/pull/69/head' of https://github.com/google/GoogleDataTransport.git
+541405c0a606f6aabb05fb0767d11c134ad5e2f2	not-for-merge	'refs/pull/7/head' of https://github.com/google/GoogleDataTransport.git
+1af8d3b18d0cea046cbebcfdf9ec45ceb15b69fe	not-for-merge	'refs/pull/70/head' of https://github.com/google/GoogleDataTransport.git
+5514fa7a0d1b0b7986571345ab6a8ffb68bbb7cf	not-for-merge	'refs/pull/71/head' of https://github.com/google/GoogleDataTransport.git
+c4eb85aa93c71197135b82eebd82fc86936be75d	not-for-merge	'refs/pull/72/head' of https://github.com/google/GoogleDataTransport.git
+12154d05f731ad32c7a3cd94aa90058a1773d6e8	not-for-merge	'refs/pull/73/head' of https://github.com/google/GoogleDataTransport.git
+1efe3339c1523991b544a5ff5a0391f6fe0d4f34	not-for-merge	'refs/pull/74/head' of https://github.com/google/GoogleDataTransport.git
+9be041fdf6a0390369ddb7a396e7041dce6ae334	not-for-merge	'refs/pull/75/head' of https://github.com/google/GoogleDataTransport.git
+6c1da337a981dea7170a0027e9d8576afa96b390	not-for-merge	'refs/pull/76/head' of https://github.com/google/GoogleDataTransport.git
+51eb4b5943f27e6ca443f762bf6b493fb18b00e8	not-for-merge	'refs/pull/77/head' of https://github.com/google/GoogleDataTransport.git
+40b6b4fad2663b070fa18f83610cc265ae5cecb8	not-for-merge	'refs/pull/78/head' of https://github.com/google/GoogleDataTransport.git
+8cc58843bdec436121e90d887c0bff98bc46eedb	not-for-merge	'refs/pull/79/head' of https://github.com/google/GoogleDataTransport.git
+071550117d40400f98ce2b41d714fea5703ca466	not-for-merge	'refs/pull/8/head' of https://github.com/google/GoogleDataTransport.git
+52cbde673b11da679ca12e691c9a73eb2d5a5114	not-for-merge	'refs/pull/80/head' of https://github.com/google/GoogleDataTransport.git
+47c7bac1695f90b035f0e3ecfa4213f01a120a16	not-for-merge	'refs/pull/9/head' of https://github.com/google/GoogleDataTransport.git
+5fe18c35562a2a2c463d69165e20f401d98f25b5	not-for-merge	'refs/remotes/origin/main' of https://github.com/google/GoogleDataTransport.git
+18bcf779352c3d36fa336b0b3b5936df6f8ba26f	not-for-merge	'refs/remotes/origin/nc/metrics-base-components' of https://github.com/google/GoogleDataTransport.git
+5056b15c5acbb90cd214fe4d6138bdf5a740e5a8	not-for-merge	tag '9.2.0' of https://github.com/google/GoogleDataTransport.git

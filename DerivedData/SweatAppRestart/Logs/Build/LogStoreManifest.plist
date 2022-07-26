@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1329BD8C-65BA-4BE7-B406-E7464BCFBC20</key>
+		<key>1456E0D0-20F2-436A-AE2C-E9A4B7581EFF</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1329BD8C-65BA-4BE7-B406-E7464BCFBC20.xcactivitylog</string>
+			<string>1456E0D0-20F2-436A-AE2C-E9A4B7581EFF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>680504084.34341705</real>
+			<key>timeStoppedRecording</key>
+			<real>680504101.09460604</real>
+			<key>title</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>1456E0D0-20F2-436A-AE2C-E9A4B7581EFF</string>
+		</dict>
+		<key>18C79579-0A0B-492F-BA75-CE1A7396F876</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18C79579-0A0B-492F-BA75-CE1A7396F876.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +66,15 @@
 			<key>signature</key>
 			<string>Build SweatAppRestart</string>
 			<key>timeStartedRecording</key>
-			<real>679209112.66267705</real>
+			<real>680504760.27960896</real>
 			<key>timeStoppedRecording</key>
-			<real>679209117.838153</real>
+			<real>680504764.105165</real>
 			<key>title</key>
 			<string>Build SweatAppRestart</string>
 			<key>uniqueIdentifier</key>
-			<string>1329BD8C-65BA-4BE7-B406-E7464BCFBC20</string>
+			<string>18C79579-0A0B-492F-BA75-CE1A7396F876</string>
 		</dict>
-		<key>3E22B927-29AF-416C-8EBD-80BB5EF4D419</key>
+		<key>22599AED-95AE-4302-9929-CBCFB2CFB3CD</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +83,177 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3E22B927-29AF-416C-8EBD-80BB5EF4D419.xcactivitylog</string>
+			<string>22599AED-95AE-4302-9929-CBCFB2CFB3CD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>680503975.47762001</real>
+			<key>timeStoppedRecording</key>
+			<real>680503988.98449302</real>
+			<key>title</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>22599AED-95AE-4302-9929-CBCFB2CFB3CD</string>
+		</dict>
+		<key>415C7A7F-7D11-4DDB-8673-DA19FA227E47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>415C7A7F-7D11-4DDB-8673-DA19FA227E47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>680504777.40880001</real>
+			<key>timeStoppedRecording</key>
+			<real>680504793.01995695</real>
+			<key>title</key>
+			<string>Build SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>415C7A7F-7D11-4DDB-8673-DA19FA227E47</string>
+		</dict>
+		<key>4CE824CB-46D6-458C-890A-7A3A60AA3A8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4CE824CB-46D6-458C-890A-7A3A60AA3A8E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>680504347.71548295</real>
+			<key>timeStoppedRecording</key>
+			<real>680504354.59317005</real>
+			<key>title</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>4CE824CB-46D6-458C-890A-7A3A60AA3A8E</string>
+		</dict>
+		<key>8E6B5027-78E9-4F2A-A2D4-D2FEC742B9DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E6B5027-78E9-4F2A-A2D4-D2FEC742B9DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>680504746.68596196</real>
+			<key>timeStoppedRecording</key>
+			<real>680504748.78618598</real>
+			<key>title</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>8E6B5027-78E9-4F2A-A2D4-D2FEC742B9DE</string>
+		</dict>
+		<key>968EF899-97AE-469F-9CC5-5C8E0EC5A06C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>968EF899-97AE-469F-9CC5-5C8E0EC5A06C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>680504476.84101295</real>
+			<key>timeStoppedRecording</key>
+			<real>680504493.71785402</real>
+			<key>title</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>968EF899-97AE-469F-9CC5-5C8E0EC5A06C</string>
+		</dict>
+		<key>AB4BCDAB-B023-4E7E-B4E3-F188477BAC5E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB4BCDAB-B023-4E7E-B4E3-F188477BAC5E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +270,81 @@
 			<key>signature</key>
 			<string>Build SweatAppRestart</string>
 			<key>timeStartedRecording</key>
-			<real>679209327.18068695</real>
+			<real>680504472.92884505</real>
 			<key>timeStoppedRecording</key>
-			<real>679209351.72048104</real>
+			<real>680504476.32891798</real>
 			<key>title</key>
 			<string>Build SweatAppRestart</string>
 			<key>uniqueIdentifier</key>
-			<string>3E22B927-29AF-416C-8EBD-80BB5EF4D419</string>
+			<string>AB4BCDAB-B023-4E7E-B4E3-F188477BAC5E</string>
+		</dict>
+		<key>E32FF714-9288-4023-8539-42CFBD474848</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E32FF714-9288-4023-8539-42CFBD474848.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>680504635.57362199</real>
+			<key>timeStoppedRecording</key>
+			<real>680504647.50742102</real>
+			<key>title</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>E32FF714-9288-4023-8539-42CFBD474848</string>
+		</dict>
+		<key>FED8C302-DD6F-457F-A5A1-7B39E09C0C99</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FED8C302-DD6F-457F-A5A1-7B39E09C0C99.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SweatAppRestart project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SweatAppRestart</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>timeStartedRecording</key>
+			<real>680504614.86753798</real>
+			<key>timeStoppedRecording</key>
+			<real>680504616.62156904</real>
+			<key>title</key>
+			<string>Build for Previews SweatAppRestart</string>
+			<key>uniqueIdentifier</key>
+			<string>FED8C302-DD6F-457F-A5A1-7B39E09C0C99</string>
 		</dict>
 	</dict>
 </dict>

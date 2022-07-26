@@ -1,0 +1,16 @@
+{
+  "source": "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Welcome/FirstWelcomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "It’s simple. As a user you get to choose how much money you want to hedge or bet on yourself. We accept amounts between $10 and $100."
+      },
+      {
+        "comment": "",
+        "key": "Continue"
+      }
+    ]
+  },
+  "version": 1
+}

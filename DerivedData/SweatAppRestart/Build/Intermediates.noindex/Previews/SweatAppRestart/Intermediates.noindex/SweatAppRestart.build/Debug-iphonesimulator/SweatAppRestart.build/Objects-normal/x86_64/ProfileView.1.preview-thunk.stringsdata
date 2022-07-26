@@ -1,5 +1,28 @@
 {
   "source": "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/Previews/SweatAppRestart/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/ProfileView.1.preview-thunk.swift",
-  "tables": {},
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Your Current Balance"
+      },
+      {
+        "comment": "",
+        "key": "$12.34"
+      },
+      {
+        "comment": "",
+        "key": "You Have Made"
+      },
+      {
+        "comment": "",
+        "key": "@%@"
+      },
+      {
+        "comment": "",
+        "key": "$%@"
+      }
+    ]
+  },
   "version": 1
 }

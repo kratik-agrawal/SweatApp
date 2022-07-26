@@ -1,0 +1,15 @@
+dd3eda2b05a3f459fc3073695ad1b28659066eab	not-for-merge	branch 'main' of https://github.com/firebase/boringssl-SwiftPM.git
+cd04e3f0b8f381be7d87253969353128b3ebd3e4	not-for-merge	branch 'paulb777-patch-1' of https://github.com/firebase/boringssl-SwiftPM.git
+e801564e46fdd0d12774ce25039da14af36e6a5d	not-for-merge	branch 'rw-version-instructions' of https://github.com/firebase/boringssl-SwiftPM.git
+555700adf5ff930d47bc3c0cb19a4fe4f7294cc2	not-for-merge	branch 'rw-xcode13-fixes' of https://github.com/firebase/boringssl-SwiftPM.git
+7edd2773f9f9cc292bf9649c3f07286d69b08aee	not-for-merge	branch 'stdlib-fix' of https://github.com/firebase/boringssl-SwiftPM.git
+7edd2773f9f9cc292bf9649c3f07286d69b08aee	not-for-merge	'refs/pull/1/head' of https://github.com/firebase/boringssl-SwiftPM.git
+6fbad5bf8bd80a36d342bf1693e4423870124d4c	not-for-merge	'refs/pull/2/head' of https://github.com/firebase/boringssl-SwiftPM.git
+d5a37fa14a72fc87b6f32a8e3ea388079f67ea99	not-for-merge	'refs/pull/3/head' of https://github.com/firebase/boringssl-SwiftPM.git
+ce3fdcc9d00c069f6d14d88bfed0b662448384df	not-for-merge	'refs/pull/4/head' of https://github.com/firebase/boringssl-SwiftPM.git
+555700adf5ff930d47bc3c0cb19a4fe4f7294cc2	not-for-merge	'refs/pull/5/head' of https://github.com/firebase/boringssl-SwiftPM.git
+e801564e46fdd0d12774ce25039da14af36e6a5d	not-for-merge	'refs/pull/6/head' of https://github.com/firebase/boringssl-SwiftPM.git
+cd04e3f0b8f381be7d87253969353128b3ebd3e4	not-for-merge	'refs/pull/7/head' of https://github.com/firebase/boringssl-SwiftPM.git
+b9aa8f7c6213e9bb64a4ca28ba00c30cf39eb337	not-for-merge	'refs/pull/8/head' of https://github.com/firebase/boringssl-SwiftPM.git
+84ddbc22f2a6ad2fdbff6ddb231793245a7b77b5	not-for-merge	'refs/pull/9/head' of https://github.com/firebase/boringssl-SwiftPM.git
+dd3eda2b05a3f459fc3073695ad1b28659066eab	not-for-merge	tag '0.9.1' of https://github.com/firebase/boringssl-SwiftPM.git

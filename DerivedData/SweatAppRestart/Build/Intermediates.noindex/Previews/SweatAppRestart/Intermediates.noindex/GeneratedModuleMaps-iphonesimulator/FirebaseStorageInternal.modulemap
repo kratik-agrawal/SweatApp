@@ -1,0 +1,4 @@
+module FirebaseStorageInternal {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseStorageInternal/Sources/Public"
+export *
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Profile/Views/TempView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "@abc"
+      },
+      {
+        "comment": "",
+        "key": "hi"
+      },
+      {
+        "comment": "",
+        "key": "Your Current Balance"
+      },
+      {
+        "comment": "",
+        "key": "$0"
+      },
+      {
+        "comment": "",
+        "key": "You Have Made"
+      },
+      {
+        "comment": "",
+        "key": "$12.34"
+      }
+    ]
+  },
+  "version": 1
+}

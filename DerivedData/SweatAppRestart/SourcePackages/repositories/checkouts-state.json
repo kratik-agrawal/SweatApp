@@ -48,6 +48,10 @@
       "https://github.com/grpc/grpc-ios.git" : {
         "repositoryURL" : "https://github.com/grpc/grpc-ios.git",
         "subpath" : "grpc-ios-9a5f03c1"
+      },
+      "https://github.com/onevcat/Kingfisher.git" : {
+        "repositoryURL" : "https://github.com/onevcat/Kingfisher.git",
+        "subpath" : "Kingfisher-917a2b51"
       }
     }
   },

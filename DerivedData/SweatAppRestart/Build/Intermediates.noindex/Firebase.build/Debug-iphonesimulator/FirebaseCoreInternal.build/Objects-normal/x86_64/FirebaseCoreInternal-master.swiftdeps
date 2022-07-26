@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
 options: "17f4c09d88d85c9643de4d58f9c3328916bfd9c2ac6dc0fdbec203fb3840ecb0"
-build_start_time: [1657350788, 834960937]
-build_end_time: [1657350795, 389433860]
+build_start_time: [1658811963, 645861148]
+build_end_time: [1658811963, 753123044]
 inputs:
   ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/firebase-ios-sdk/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
   : [1657346822, 99490642]

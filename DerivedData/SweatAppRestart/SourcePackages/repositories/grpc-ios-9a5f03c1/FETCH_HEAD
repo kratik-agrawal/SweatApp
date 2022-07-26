@@ -1,0 +1,44 @@
+86d51daa5ad3eb89d294565dbab422e0c548e1c1	not-for-merge	branch 'create-pull-request/patch' of https://github.com/grpc/grpc-ios.git
+abd2d5a4347efa0454606a788678a5d8ec223738	not-for-merge	branch 'grpc_master' of https://github.com/grpc/grpc-ios.git
+8440b914756e0d26d4f4d054a1c1581daedfc5b6	not-for-merge	branch 'grpc_release_1.44.0' of https://github.com/grpc/grpc-ios.git
+54ea06bbc21b83c563d3c42d1cb6eb18f070d265	not-for-merge	branch 'main' of https://github.com/grpc/grpc-ios.git
+473767e4e88081218479b26db1047c5d16b9367a	not-for-merge	'refs/pull/1/head' of https://github.com/grpc/grpc-ios.git
+ad89aa42060d004ec9e0390530d14615537589a8	not-for-merge	'refs/pull/10/head' of https://github.com/grpc/grpc-ios.git
+b3b5ced482e7de80eed781cf532343ac3a3d3c91	not-for-merge	'refs/pull/108/head' of https://github.com/grpc/grpc-ios.git
+a65517f4470233c5d27ec9b65354632fb02f5bf1	not-for-merge	'refs/pull/109/head' of https://github.com/grpc/grpc-ios.git
+1f7b06947ff8ab135306929ee243cdc332d2ba6e	not-for-merge	'refs/pull/109/merge' of https://github.com/grpc/grpc-ios.git
+c04b944afc1dfb4220d8af7d5deb63cbdd0b0f42	not-for-merge	'refs/pull/11/head' of https://github.com/grpc/grpc-ios.git
+111d3274d0020c2ca86e2f45c28e3970249b0f4d	not-for-merge	'refs/pull/12/head' of https://github.com/grpc/grpc-ios.git
+c98d2f8b37aab50bf3bd703e19c51b2097439127	not-for-merge	'refs/pull/13/head' of https://github.com/grpc/grpc-ios.git
+aa03c9eec7376b313e4ca0ff77126f738ede9e6e	not-for-merge	'refs/pull/14/head' of https://github.com/grpc/grpc-ios.git
+8c2e960a753cc61060fc5c68ce26326521747b3d	not-for-merge	'refs/pull/15/head' of https://github.com/grpc/grpc-ios.git
+b8e19bcdbc6a865d25f7d4fb618f683a4e849dd7	not-for-merge	'refs/pull/16/head' of https://github.com/grpc/grpc-ios.git
+2593ce18a5568275cd2b59956657ef6ec5c5242b	not-for-merge	'refs/pull/17/head' of https://github.com/grpc/grpc-ios.git
+197638c67c1a670ce540468dff1b3bb931ff4b1c	not-for-merge	'refs/pull/18/head' of https://github.com/grpc/grpc-ios.git
+14f64dcb3f01ccce12671852324415f881bba7d0	not-for-merge	'refs/pull/19/head' of https://github.com/grpc/grpc-ios.git
+e6495b71574cd7c5450a13346544282013849ce7	not-for-merge	'refs/pull/2/head' of https://github.com/grpc/grpc-ios.git
+25f7173aad69b2199de59633cb30c1f95413ecc4	not-for-merge	'refs/pull/20/head' of https://github.com/grpc/grpc-ios.git
+b94d8a9de248808d02e1f171e0acecd4aa0c8ae0	not-for-merge	'refs/pull/21/head' of https://github.com/grpc/grpc-ios.git
+c9f9536aebc5cb5e54ed9c9b859b3d06cbb3bb23	not-for-merge	'refs/pull/22/head' of https://github.com/grpc/grpc-ios.git
+3462e0d52aa0c7bf2e782df40c2a6f132fc4c908	not-for-merge	'refs/pull/3/head' of https://github.com/grpc/grpc-ios.git
+bc4cf77c8425bc4ea96f222310b81b6965edee92	not-for-merge	'refs/pull/4/head' of https://github.com/grpc/grpc-ios.git
+fc7ade3af1dcc285c0b66bdd7356ab518f1a086a	not-for-merge	'refs/pull/5/head' of https://github.com/grpc/grpc-ios.git
+fcb4e256e2ef1983e230b6de3a6269599c4fb18c	not-for-merge	'refs/pull/52/head' of https://github.com/grpc/grpc-ios.git
+43dcb73907cf068fa6e611994766cfe4fc136213	not-for-merge	'refs/pull/53/head' of https://github.com/grpc/grpc-ios.git
+41fe56f78fb29c9aa85ce07eb015008b76e9b16d	not-for-merge	'refs/pull/54/head' of https://github.com/grpc/grpc-ios.git
+8bea66655632c7492b81dbb9b13743078079f18a	not-for-merge	'refs/pull/55/head' of https://github.com/grpc/grpc-ios.git
+86d51daa5ad3eb89d294565dbab422e0c548e1c1	not-for-merge	'refs/pull/56/head' of https://github.com/grpc/grpc-ios.git
+be69a0019e0d22f353805f9762d37fca7c169b90	not-for-merge	'refs/pull/56/merge' of https://github.com/grpc/grpc-ios.git
+0c0206bb1e256f262a6e89b110a5e3ebc62cb2ab	not-for-merge	'refs/pull/57/head' of https://github.com/grpc/grpc-ios.git
+e178df39348029e9cd6941a48461c8853add6221	not-for-merge	'refs/pull/6/head' of https://github.com/grpc/grpc-ios.git
+86c3ebcb5f87127eb64534c65f3ded5931a9bba7	not-for-merge	'refs/pull/7/head' of https://github.com/grpc/grpc-ios.git
+deaa57a3a34a2c07cffd911e73d063d8b54e007b	not-for-merge	'refs/pull/8/head' of https://github.com/grpc/grpc-ios.git
+e5b1d357a513627673b1da0f30b6cd7febcaf00b	not-for-merge	'refs/pull/84/head' of https://github.com/grpc/grpc-ios.git
+1c1e9b526a953144bb209f8c8b4a6669c8d1faff	not-for-merge	'refs/pull/85/head' of https://github.com/grpc/grpc-ios.git
+fe30ef0ec0a1afc7da76d067fc3ec8d4713ef9fb	not-for-merge	'refs/pull/87/head' of https://github.com/grpc/grpc-ios.git
+621f47dcba6a871fbb8e6ba1cdfd13278deae45b	not-for-merge	'refs/pull/9/head' of https://github.com/grpc/grpc-ios.git
+fd4bfc2679ac4b739679ae46222b5af448d37148	not-for-merge	'refs/pull/96/head' of https://github.com/grpc/grpc-ios.git
+5d6adcda053c95a68687ab46932a5415e89d0de7	not-for-merge	'refs/pull/97/head' of https://github.com/grpc/grpc-ios.git
+1428723422c1fd089ef9fe8b1f3498065462f8ba	not-for-merge	'refs/pull/98/head' of https://github.com/grpc/grpc-ios.git
+277d4fa771a27be2e61f6a903bb088b4b2697a45	not-for-merge	'refs/pull/99/head' of https://github.com/grpc/grpc-ios.git
+47c1e080d4b113d373f3dffb30fb30ec4dadee08	not-for-merge	tag '1.44.3-grpc' of https://github.com/grpc/grpc-ios.git
