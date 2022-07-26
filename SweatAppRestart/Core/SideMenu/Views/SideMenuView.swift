@@ -31,13 +31,7 @@ struct SideMenuView: View {
                 }.padding(.leading)
                 ForEach(SideMenuViewModel.allCases, id: \.rawValue) { viewModel in
                     
-                    if viewModel == .profile {
-                        NavigationLink {
-                            ProfileView()
-                        } label: {
-                            SideMenuOptionRowView(viewModel: viewModel)
-                        }
-                    } else if viewModel == .logout {
+                   if viewModel == .logout {
                         Button {
                             authViewModel.signOut()
                         } label: {

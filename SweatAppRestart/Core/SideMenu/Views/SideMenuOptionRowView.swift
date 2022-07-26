@@ -26,6 +26,6 @@ struct SideMenuOptionRowView: View {
 
 struct SideMenuOptionRowView_Previews: PreviewProvider {
     static var previews: some View {
-        SideMenuOptionRowView(viewModel: .profile)
+        SideMenuOptionRowView(viewModel: .logout)
     }
 }
