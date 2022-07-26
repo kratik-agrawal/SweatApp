@@ -6,16 +6,35 @@
 //
 
 import SwiftUI
-
+import Kingfisher
 
 struct ProfileView: View {
     @EnvironmentObject var authViewModel: AuthViewModel
+    
+//    init() {
+//        
+//    }
 
     
     var body: some View {
         
         VStack() {
-            headerView
+            if let user = authViewModel.currentUser {
+                    ZStack(alignment: .bottomLeading) {
+                         
+                        Color(.systemOrange)
+                            .ignoresSafeArea()
+                        KFImage(URL(string: user.profileImageUrl))
+                            .resizable()
+                            .scaledToFill()
+                            .clipShape(Circle())
+                            .frame(width:150, height:150)
+                            .offset(x:120, y:45)
+                            //.foregroundColor(.gray)
+                    }
+                    .frame(height: 120)
+                    //.offset(y:-125)
+            }
                 
             if let user = authViewModel.currentUser {
                 VStack(spacing: 8) {
@@ -88,21 +107,6 @@ struct ProfileView_Previews: PreviewProvider {
 }
 
 extension ProfileView{
-    var headerView: some View {
-        
-                ZStack(alignment: .bottomLeading) {
-                     
-                    Color(.systemOrange)
-                        .ignoresSafeArea()
-                    Circle()
-                        .frame(width:150, height:150)
-                        .offset(x:120, y:45)
-                        .foregroundColor(.gray)
-                }
-                .frame(height: 120)
-                //.offset(y:-125)
-                
-    }
     
 //    var userInfoDetails: some View {
 //        if let user = authViewModel.currentUser {

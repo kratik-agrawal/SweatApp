@@ -14,4 +14,5 @@ struct User: Identifiable, Decodable {
     let email: String
     let deposited: String
     let balance: String
+    let profileImageUrl: String
 }

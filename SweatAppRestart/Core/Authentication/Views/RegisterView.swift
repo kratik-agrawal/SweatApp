@@ -16,6 +16,10 @@ struct RegisterView: View {
     @EnvironmentObject var viewModel: AuthViewModel
     var body: some View {
         VStack {
+            
+            NavigationLink(destination:FirstWelcomeView(),                      isActive: $viewModel.didAuthenticateUser,
+                           label: { })
+            
             AuthenticationHeaderView(title1: "Get Started", title2:"Create Your Account!")
             
             VStack(spacing:40) {

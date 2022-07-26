@@ -60,7 +60,7 @@ extension ContentView {
                         showMenu.toggle()
                     }
                 } label: {
-                    Image(systemName: "list.bullet.rectangle")
+                    Image(systemName: "line.horizontal.3.circle.fill")
                 }
                 
             }
