@@ -2,6 +2,7 @@
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/ContentView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Components/Authentication/AuthenticationHeaderView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Feed/View/FeedView.swift
+/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Welcome/SecondWelcomeView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/SideMenu/Views/SideMenuView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/SweatAppRestartApp.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Service/UserService.swift
@@ -12,7 +13,11 @@
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Profile/Views/ProfileView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/Views/LoginView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/ViewModel/AuthViewModel.swift
+/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Service/ImageUploader.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Model/User.swift
+/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Welcome/FirstWelcomeView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/Views/RegisterView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/SideMenu/ViewModel/SideMenuViewModel.swift
+/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Utils/ImagePicker.swift
+/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Authentication/Views/ProfilePhotoSelectorView.swift
 /Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Notifications/NotificationView.swift

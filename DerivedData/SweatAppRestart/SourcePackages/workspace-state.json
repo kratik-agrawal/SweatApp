@@ -202,6 +202,23 @@
       {
         "basedOn" : null,
         "packageRef" : {
+          "identity" : "kingfisher",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/onevcat/Kingfisher.git",
+          "name" : "Kingfisher"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "2235a22ca249199cb736237f4bb9cc12b6ed416a",
+            "version" : "7.3.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Kingfisher"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
           "identity" : "leveldb",
           "kind" : "remoteSourceControl",
           "location" : "https://github.com/firebase/leveldb.git",

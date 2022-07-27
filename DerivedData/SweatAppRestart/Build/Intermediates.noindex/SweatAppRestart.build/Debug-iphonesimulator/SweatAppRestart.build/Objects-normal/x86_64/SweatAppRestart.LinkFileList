@@ -2,6 +2,7 @@
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/ContentView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/AuthenticationHeaderView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/FeedView.o
+/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/SecondWelcomeView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/SideMenuView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/SweatAppRestartApp.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/UserService.o
@@ -12,10 +13,15 @@
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/ProfileView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/LoginView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/AuthViewModel.o
+/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/ImageUploader.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/User.o
+/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/FirstWelcomeView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/RegisterView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/SideMenuViewModel.o
+/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/ImagePicker.o
+/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/ProfilePhotoSelectorView.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/SweatAppRestart.build/Debug-iphonesimulator/SweatAppRestart.build/Objects-normal/x86_64/NotificationView.o
+/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Products/Debug-iphonesimulator/Kingfisher.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Products/Debug-iphonesimulator/FirebaseAuth.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Products/Debug-iphonesimulator/Firebase.o
 /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Products/Debug-iphonesimulator/GoogleDataTransport.o

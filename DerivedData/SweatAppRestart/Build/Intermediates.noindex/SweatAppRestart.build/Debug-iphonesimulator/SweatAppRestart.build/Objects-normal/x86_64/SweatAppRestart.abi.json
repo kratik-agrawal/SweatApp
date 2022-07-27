@@ -1872,6 +1872,1961 @@
     },
     {
       "kind": "TypeDecl",
+      "name": "SecondWelcomeView",
+      "printedName": "SecondWelcomeView",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "firstQuestionValue",
+          "printedName": "firstQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV18firstQuestionValueSSvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18firstQuestionValueSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV18firstQuestionValueSSvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18firstQuestionValueSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV18firstQuestionValueSSvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18firstQuestionValueSSvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV18firstQuestionValueSSvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18firstQuestionValueSSvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$firstQuestionValue",
+          "printedName": "$firstQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV19$firstQuestionValue7SwiftUI7BindingVySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19$firstQuestionValue7SwiftUI7BindingVySSGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV19$firstQuestionValue7SwiftUI7BindingVySSGvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19$firstQuestionValue7SwiftUI7BindingVySSGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_firstQuestionValue",
+          "printedName": "_firstQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV19_firstQuestionValue33_C15D6917E5ADC5625BE9F5E9C0D07B27LL7SwiftUI5StateVySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19_firstQuestionValue33_C15D6917E5ADC5625BE9F5E9C0D07B27LL7SwiftUI5StateVySSGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "firstQuestionPlaceholder",
+          "printedName": "firstQuestionPlaceholder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV24firstQuestionPlaceholderSSvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV24firstQuestionPlaceholderSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV24firstQuestionPlaceholderSSvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV24firstQuestionPlaceholderSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV24firstQuestionPlaceholderSSvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV24firstQuestionPlaceholderSSvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV24firstQuestionPlaceholderSSvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV24firstQuestionPlaceholderSSvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "firstQuestionDropDownList",
+          "printedName": "firstQuestionDropDownList",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV25firstQuestionDropDownListSaySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25firstQuestionDropDownListSaySSGvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25firstQuestionDropDownListSaySSGvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25firstQuestionDropDownListSaySSGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25firstQuestionDropDownListSaySSGvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25firstQuestionDropDownListSaySSGvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25firstQuestionDropDownListSaySSGvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25firstQuestionDropDownListSaySSGvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "secondQuestionValue",
+          "printedName": "secondQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV19secondQuestionValueSSvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19secondQuestionValueSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV19secondQuestionValueSSvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19secondQuestionValueSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV19secondQuestionValueSSvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19secondQuestionValueSSvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV19secondQuestionValueSSvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19secondQuestionValueSSvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$secondQuestionValue",
+          "printedName": "$secondQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV20$secondQuestionValue7SwiftUI7BindingVySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV20$secondQuestionValue7SwiftUI7BindingVySSGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV20$secondQuestionValue7SwiftUI7BindingVySSGvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV20$secondQuestionValue7SwiftUI7BindingVySSGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_secondQuestionValue",
+          "printedName": "_secondQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV20_secondQuestionValue33_C15D6917E5ADC5625BE9F5E9C0D07B27LL7SwiftUI5StateVySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV20_secondQuestionValue33_C15D6917E5ADC5625BE9F5E9C0D07B27LL7SwiftUI5StateVySSGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "secondQuestionPlaceholder",
+          "printedName": "secondQuestionPlaceholder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV25secondQuestionPlaceholderSSvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25secondQuestionPlaceholderSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25secondQuestionPlaceholderSSvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25secondQuestionPlaceholderSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25secondQuestionPlaceholderSSvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25secondQuestionPlaceholderSSvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25secondQuestionPlaceholderSSvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25secondQuestionPlaceholderSSvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "secondQuestionDropDownList",
+          "printedName": "secondQuestionDropDownList",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV26secondQuestionDropDownListSaySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV26secondQuestionDropDownListSaySSGvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 5,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV26secondQuestionDropDownListSaySSGvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV26secondQuestionDropDownListSaySSGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV26secondQuestionDropDownListSaySSGvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV26secondQuestionDropDownListSaySSGvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV26secondQuestionDropDownListSaySSGvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV26secondQuestionDropDownListSaySSGvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "thirdQuestionValue",
+          "printedName": "thirdQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV18thirdQuestionValueSSvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18thirdQuestionValueSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV18thirdQuestionValueSSvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18thirdQuestionValueSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV18thirdQuestionValueSSvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18thirdQuestionValueSSvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV18thirdQuestionValueSSvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18thirdQuestionValueSSvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$thirdQuestionValue",
+          "printedName": "$thirdQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV19$thirdQuestionValue7SwiftUI7BindingVySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19$thirdQuestionValue7SwiftUI7BindingVySSGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV19$thirdQuestionValue7SwiftUI7BindingVySSGvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19$thirdQuestionValue7SwiftUI7BindingVySSGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_thirdQuestionValue",
+          "printedName": "_thirdQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV19_thirdQuestionValue33_C15D6917E5ADC5625BE9F5E9C0D07B27LL7SwiftUI5StateVySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19_thirdQuestionValue33_C15D6917E5ADC5625BE9F5E9C0D07B27LL7SwiftUI5StateVySSGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 6,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "thirdQuestionPlaceholder",
+          "printedName": "thirdQuestionPlaceholder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV24thirdQuestionPlaceholderSSvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV24thirdQuestionPlaceholderSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 7,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV24thirdQuestionPlaceholderSSvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV24thirdQuestionPlaceholderSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV24thirdQuestionPlaceholderSSvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV24thirdQuestionPlaceholderSSvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV24thirdQuestionPlaceholderSSvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV24thirdQuestionPlaceholderSSvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "thirdQuestionDropDownList",
+          "printedName": "thirdQuestionDropDownList",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV25thirdQuestionDropDownListSaySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25thirdQuestionDropDownListSaySSGvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 8,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25thirdQuestionDropDownListSaySSGvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25thirdQuestionDropDownListSaySSGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25thirdQuestionDropDownListSaySSGvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25thirdQuestionDropDownListSaySSGvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25thirdQuestionDropDownListSaySSGvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25thirdQuestionDropDownListSaySSGvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "fourthQuestionValue",
+          "printedName": "fourthQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV19fourthQuestionValueSSvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19fourthQuestionValueSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV19fourthQuestionValueSSvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19fourthQuestionValueSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV19fourthQuestionValueSSvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19fourthQuestionValueSSvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV19fourthQuestionValueSSvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV19fourthQuestionValueSSvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$fourthQuestionValue",
+          "printedName": "$fourthQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV20$fourthQuestionValue7SwiftUI7BindingVySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV20$fourthQuestionValue7SwiftUI7BindingVySSGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<Swift.String>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV20$fourthQuestionValue7SwiftUI7BindingVySSGvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV20$fourthQuestionValue7SwiftUI7BindingVySSGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_fourthQuestionValue",
+          "printedName": "_fourthQuestionValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<Swift.String>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV20_fourthQuestionValue33_C15D6917E5ADC5625BE9F5E9C0D07B27LL7SwiftUI5StateVySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV20_fourthQuestionValue33_C15D6917E5ADC5625BE9F5E9C0D07B27LL7SwiftUI5StateVySSGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 9,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "fourthQuestionPlaceholder",
+          "printedName": "fourthQuestionPlaceholder",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV25fourthQuestionPlaceholderSSvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25fourthQuestionPlaceholderSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 10,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25fourthQuestionPlaceholderSSvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25fourthQuestionPlaceholderSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25fourthQuestionPlaceholderSSvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25fourthQuestionPlaceholderSSvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV25fourthQuestionPlaceholderSSvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV25fourthQuestionPlaceholderSSvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "fourthQuestionDropDownList",
+          "printedName": "fourthQuestionDropDownList",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV26fourthQuestionDropDownListSaySSGvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV26fourthQuestionDropDownListSaySSGvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 11,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV26fourthQuestionDropDownListSaySSGvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV26fourthQuestionDropDownListSaySSGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[Swift.String]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV26fourthQuestionDropDownListSaySSGvs",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV26fourthQuestionDropDownListSaySSGvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV26fourthQuestionDropDownListSaySSGvM",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV26fourthQuestionDropDownListSaySSGvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "body",
+          "printedName": "body",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some SwiftUI.View",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "SwiftUI.View",
+                  "usr": "s:7SwiftUI4ViewP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV4bodyQrvp",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV4bodyQrvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV4bodyQrvg",
+              "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV4bodyQrvg",
+              "moduleName": "SweatAppRestart",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(firstQuestionValue:firstQuestionPlaceholder:firstQuestionDropDownList:secondQuestionValue:secondQuestionPlaceholder:secondQuestionDropDownList:thirdQuestionValue:thirdQuestionPlaceholder:thirdQuestionDropDownList:fourthQuestionValue:fourthQuestionPlaceholder:fourthQuestionDropDownList:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SecondWelcomeView",
+              "printedName": "SweatAppRestart.SecondWelcomeView",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sa"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sa"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sa"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "hasDefaultArg": true,
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[Swift.String]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewV18firstQuestionValue0gH11Placeholder0gH12DropDownList06secondhI00nhJ00nhklM005thirdhI00ohJ00ohklM006fourthhI00phJ00phklM0ACSS_SSSaySSGS2SAPS2SAPS2SAPtcfc",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV18firstQuestionValue0gH11Placeholder0gH12DropDownList06secondhI00nhJ00nhklM005thirdhI00ohJ00ohklM006fourthhI00phJ00phklM0ACSS_SSSaySSGS2SAPS2SAPS2SAPtcfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SecondWelcomeView",
+              "printedName": "SweatAppRestart.SecondWelcomeView",
+              "usr": "s:15SweatAppRestart17SecondWelcomeViewV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart17SecondWelcomeViewVACycfc",
+          "mangledName": "$s15SweatAppRestart17SecondWelcomeViewVACycfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:15SweatAppRestart17SecondWelcomeViewV",
+      "mangledName": "$s15SweatAppRestart17SecondWelcomeViewV",
+      "moduleName": "SweatAppRestart",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "View",
+          "printedName": "View",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI4ViewP",
+          "mangledName": "$s7SwiftUI4ViewP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "SecondWelcomeView_Previews",
+      "printedName": "SecondWelcomeView_Previews",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "previews",
+          "printedName": "previews",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some SwiftUI.View",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "SwiftUI.View",
+                  "usr": "s:7SwiftUI4ViewP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart26SecondWelcomeView_PreviewsV8previewsQrvpZ",
+          "mangledName": "$s15SweatAppRestart26SecondWelcomeView_PreviewsV8previewsQrvpZ",
+          "moduleName": "SweatAppRestart",
+          "static": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart26SecondWelcomeView_PreviewsV8previewsQrvgZ",
+              "mangledName": "$s15SweatAppRestart26SecondWelcomeView_PreviewsV8previewsQrvgZ",
+              "moduleName": "SweatAppRestart",
+              "static": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "SecondWelcomeView_Previews",
+              "printedName": "SweatAppRestart.SecondWelcomeView_Previews",
+              "usr": "s:15SweatAppRestart26SecondWelcomeView_PreviewsV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart26SecondWelcomeView_PreviewsVACycfc",
+          "mangledName": "$s15SweatAppRestart26SecondWelcomeView_PreviewsVACycfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:15SweatAppRestart26SecondWelcomeView_PreviewsV",
+      "mangledName": "$s15SweatAppRestart26SecondWelcomeView_PreviewsV",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "Custom"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "PreviewProvider",
+          "printedName": "PreviewProvider",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Previews",
+              "printedName": "Previews",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI15PreviewProviderP",
+          "mangledName": "$s7SwiftUI15PreviewProviderP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_PreviewProvider",
+          "printedName": "_PreviewProvider",
+          "usr": "s:7SwiftUI16_PreviewProviderP",
+          "mangledName": "$s7SwiftUI16_PreviewProviderP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftUI",
+      "printedName": "SwiftUI",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Kingfisher",
+      "printedName": "Kingfisher",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart"
+    },
+    {
+      "kind": "TypeDecl",
       "name": "SideMenuView",
       "printedName": "SideMenuView",
       "children": [
@@ -2710,7 +4665,8 @@
           "mangledName": "$s15SweatAppRestart10VerifyViewV4bodyQrvp",
           "moduleName": "SweatAppRestart",
           "declAttributes": [
-            "Custom"
+            "Custom",
+            "RawDocComment"
           ],
           "accessors": [
             {
@@ -3813,10 +5769,236 @@
       ]
     },
     {
+      "kind": "Import",
+      "name": "Kingfisher",
+      "printedName": "Kingfisher",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart"
+    },
+    {
       "kind": "TypeDecl",
       "name": "ProfileView",
       "printedName": "ProfileView",
       "children": [
+        {
+          "kind": "Var",
+          "name": "authViewModel",
+          "printedName": "authViewModel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AuthViewModel",
+              "printedName": "SweatAppRestart.AuthViewModel",
+              "usr": "s:15SweatAppRestart13AuthViewModelC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ProfileViewV04authE5ModelAA04AutheG0Cvp",
+          "mangledName": "$s15SweatAppRestart11ProfileViewV04authE5ModelAA04AutheG0Cvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AuthViewModel",
+                  "printedName": "SweatAppRestart.AuthViewModel",
+                  "usr": "s:15SweatAppRestart13AuthViewModelC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart11ProfileViewV04authE5ModelAA04AutheG0Cvg",
+              "mangledName": "$s15SweatAppRestart11ProfileViewV04authE5ModelAA04AutheG0Cvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$authViewModel",
+          "printedName": "$authViewModel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Wrapper",
+              "printedName": "SwiftUI.EnvironmentObject<SweatAppRestart.AuthViewModel>.Wrapper",
+              "usr": "s:7SwiftUI17EnvironmentObjectV7WrapperV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ProfileViewV05$authE5Model7SwiftUI17EnvironmentObjectV7WrapperVyAA04AutheG0C_Gvp",
+          "mangledName": "$s15SweatAppRestart11ProfileViewV05$authE5Model7SwiftUI17EnvironmentObjectV7WrapperVyAA04AutheG0C_Gvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Wrapper",
+                  "printedName": "SwiftUI.EnvironmentObject<SweatAppRestart.AuthViewModel>.Wrapper",
+                  "usr": "s:7SwiftUI17EnvironmentObjectV7WrapperV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart11ProfileViewV05$authE5Model7SwiftUI17EnvironmentObjectV7WrapperVyAA04AutheG0C_Gvg",
+              "mangledName": "$s15SweatAppRestart11ProfileViewV05$authE5Model7SwiftUI17EnvironmentObjectV7WrapperVyAA04AutheG0C_Gvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_authViewModel",
+          "printedName": "_authViewModel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EnvironmentObject",
+              "printedName": "SwiftUI.EnvironmentObject<SweatAppRestart.AuthViewModel>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AuthViewModel",
+                  "printedName": "SweatAppRestart.AuthViewModel",
+                  "usr": "s:15SweatAppRestart13AuthViewModelC"
+                }
+              ],
+              "usr": "s:7SwiftUI17EnvironmentObjectV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ProfileViewV05_authE5Model33_9EDDCE552BD937F923AD20EABDB03958LL7SwiftUI17EnvironmentObjectVyAA04AutheG0CGvp",
+          "mangledName": "$s15SweatAppRestart11ProfileViewV05_authE5Model33_9EDDCE552BD937F923AD20EABDB03958LL7SwiftUI17EnvironmentObjectVyAA04AutheG0CGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "mode",
+          "printedName": "mode",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<SwiftUI.PresentationMode>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PresentationMode",
+                  "printedName": "SwiftUI.PresentationMode",
+                  "usr": "s:7SwiftUI16PresentationModeV"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ProfileViewV4mode7SwiftUI7BindingVyAE16PresentationModeVGvp",
+          "mangledName": "$s15SweatAppRestart11ProfileViewV4mode7SwiftUI7BindingVyAE16PresentationModeVGvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<SwiftUI.PresentationMode>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PresentationMode",
+                      "printedName": "SwiftUI.PresentationMode",
+                      "usr": "s:7SwiftUI16PresentationModeV"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart11ProfileViewV4mode7SwiftUI7BindingVyAE16PresentationModeVGvg",
+              "mangledName": "$s15SweatAppRestart11ProfileViewV4mode7SwiftUI7BindingVyAE16PresentationModeVGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_mode",
+          "printedName": "_mode",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Environment",
+              "printedName": "SwiftUI.Environment<SwiftUI.Binding<SwiftUI.PresentationMode>>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<SwiftUI.PresentationMode>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PresentationMode",
+                      "printedName": "SwiftUI.PresentationMode",
+                      "usr": "s:7SwiftUI16PresentationModeV"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "usr": "s:7SwiftUI11EnvironmentV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ProfileViewV5_mode33_9EDDCE552BD937F923AD20EABDB03958LL7SwiftUI11EnvironmentVyAF7BindingVyAF16PresentationModeVGGvp",
+          "mangledName": "$s15SweatAppRestart11ProfileViewV5_mode33_9EDDCE552BD937F923AD20EABDB03958LL7SwiftUI11EnvironmentVyAF7BindingVyAF16PresentationModeVGGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true
+        },
         {
           "kind": "Var",
           "name": "body",
@@ -3874,6 +6056,66 @@
         {
           "kind": "Constructor",
           "name": "init",
+          "printedName": "init(authViewModel:mode:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ProfileView",
+              "printedName": "SweatAppRestart.ProfileView",
+              "usr": "s:15SweatAppRestart11ProfileViewV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "EnvironmentObject",
+              "printedName": "SwiftUI.EnvironmentObject<SweatAppRestart.AuthViewModel>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AuthViewModel",
+                  "printedName": "SweatAppRestart.AuthViewModel",
+                  "usr": "s:15SweatAppRestart13AuthViewModelC"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:7SwiftUI17EnvironmentObjectV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Environment",
+              "printedName": "SwiftUI.Environment<SwiftUI.Binding<SwiftUI.PresentationMode>>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<SwiftUI.PresentationMode>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PresentationMode",
+                      "printedName": "SwiftUI.PresentationMode",
+                      "usr": "s:7SwiftUI16PresentationModeV"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:7SwiftUI11EnvironmentV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart11ProfileViewV04authE5Model4modeAC7SwiftUI17EnvironmentObjectVyAA04AutheG0CG_AF0K0VyAF7BindingVyAF16PresentationModeVGGtcfc",
+          "mangledName": "$s15SweatAppRestart11ProfileViewV04authE5Model4modeAC7SwiftUI17EnvironmentObjectVyAA04AutheG0CG_AF0K0VyAF7BindingVyAF16PresentationModeVGGtcfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
           "printedName": "init()",
           "children": [
             {
@@ -3888,12 +6130,15 @@
           "mangledName": "$s15SweatAppRestart11ProfileViewVACycfc",
           "moduleName": "SweatAppRestart",
           "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
           "init_kind": "Designated"
         },
         {
           "kind": "Var",
-          "name": "headerView",
-          "printedName": "headerView",
+          "name": "userStatistics",
+          "printedName": "userStatistics",
           "children": [
             {
               "kind": "TypeNominal",
@@ -3910,9 +6155,12 @@
             }
           ],
           "declKind": "Var",
-          "usr": "s:15SweatAppRestart11ProfileViewV06headerE0Qrvp",
-          "mangledName": "$s15SweatAppRestart11ProfileViewV06headerE0Qrvp",
+          "usr": "s:15SweatAppRestart11ProfileViewV14userStatisticsQrvp",
+          "mangledName": "$s15SweatAppRestart11ProfileViewV14userStatisticsQrvp",
           "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
           "accessors": [
             {
               "kind": "Accessor",
@@ -3934,8 +6182,8 @@
                 }
               ],
               "declKind": "Accessor",
-              "usr": "s:15SweatAppRestart11ProfileViewV06headerE0Qrvg",
-              "mangledName": "$s15SweatAppRestart11ProfileViewV06headerE0Qrvg",
+              "usr": "s:15SweatAppRestart11ProfileViewV14userStatisticsQrvg",
+              "mangledName": "$s15SweatAppRestart11ProfileViewV14userStatisticsQrvg",
               "moduleName": "SweatAppRestart",
               "accessorKind": "get"
             }
@@ -3946,6 +6194,9 @@
       "usr": "s:15SweatAppRestart11ProfileViewV",
       "mangledName": "$s15SweatAppRestart11ProfileViewV",
       "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "Custom"
+      ],
       "conformances": [
         {
           "kind": "Conformance",
@@ -5171,6 +7422,266 @@
         },
         {
           "kind": "Var",
+          "name": "didAuthenticateUser",
+          "printedName": "didAuthenticateUser",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart13AuthViewModelC19didAuthenticateUserSbvp",
+          "mangledName": "$s15SweatAppRestart13AuthViewModelC19didAuthenticateUserSbvp",
+          "moduleName": "SweatAppRestart",
+          "isOpen": true,
+          "declAttributes": [
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart13AuthViewModelC19didAuthenticateUserSbvg",
+              "mangledName": "$s15SweatAppRestart13AuthViewModelC19didAuthenticateUserSbvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart13AuthViewModelC19didAuthenticateUserSbvs",
+              "mangledName": "$s15SweatAppRestart13AuthViewModelC19didAuthenticateUserSbvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart13AuthViewModelC19didAuthenticateUserSbvM",
+              "mangledName": "$s15SweatAppRestart13AuthViewModelC19didAuthenticateUserSbvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$didAuthenticateUser",
+          "printedName": "$didAuthenticateUser",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Publisher",
+              "printedName": "Combine.Published<Swift.Bool>.Publisher",
+              "usr": "s:7Combine9PublishedV9PublisherV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart13AuthViewModelC20$didAuthenticateUser7Combine9PublishedV9PublisherVySb_Gvp",
+          "mangledName": "$s15SweatAppRestart13AuthViewModelC20$didAuthenticateUser7Combine9PublishedV9PublisherVySb_Gvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isOpen": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Publisher",
+                  "printedName": "Combine.Published<Swift.Bool>.Publisher",
+                  "usr": "s:7Combine9PublishedV9PublisherV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart13AuthViewModelC20$didAuthenticateUser7Combine9PublishedV9PublisherVySb_Gvg",
+              "mangledName": "$s15SweatAppRestart13AuthViewModelC20$didAuthenticateUser7Combine9PublishedV9PublisherVySb_Gvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Publisher",
+                  "printedName": "Combine.Published<Swift.Bool>.Publisher",
+                  "usr": "s:7Combine9PublishedV9PublisherV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart13AuthViewModelC20$didAuthenticateUser7Combine9PublishedV9PublisherVySb_Gvs",
+              "mangledName": "$s15SweatAppRestart13AuthViewModelC20$didAuthenticateUser7Combine9PublishedV9PublisherVySb_Gvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "isOpen": true,
+              "intro_Macosx": "11.0",
+              "intro_iOS": "14.0",
+              "intro_tvOS": "14.0",
+              "intro_watchOS": "7.0",
+              "declAttributes": [
+                "Available",
+                "Available",
+                "Available",
+                "Available"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart13AuthViewModelC20$didAuthenticateUser7Combine9PublishedV9PublisherVySb_GvM",
+              "mangledName": "$s15SweatAppRestart13AuthViewModelC20$didAuthenticateUser7Combine9PublishedV9PublisherVySb_GvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "isOpen": true,
+              "intro_Macosx": "11.0",
+              "intro_iOS": "14.0",
+              "intro_tvOS": "14.0",
+              "intro_watchOS": "7.0",
+              "declAttributes": [
+                "Available",
+                "Available",
+                "Available",
+                "Available"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_didAuthenticateUser",
+          "printedName": "_didAuthenticateUser",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Published",
+              "printedName": "Combine.Published<Swift.Bool>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "usr": "s:7Combine9PublishedV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart13AuthViewModelC20_didAuthenticateUser33_212112794D6C4804ED591DB819FC2CC1LL7Combine9PublishedVySbGvp",
+          "mangledName": "$s15SweatAppRestart13AuthViewModelC20_didAuthenticateUser33_212112794D6C4804ED591DB819FC2CC1LL7Combine9PublishedVySbGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Final",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "tempUserSession",
+          "printedName": "tempUserSession",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "FirebaseAuth.User?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "User",
+                  "printedName": "FirebaseAuth.User",
+                  "usr": "c:objc(cs)FIRUser"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart13AuthViewModelC15tempUserSession33_212112794D6C4804ED591DB819FC2CC1LLSo7FIRUserCSgvp",
+          "mangledName": "$s15SweatAppRestart13AuthViewModelC15tempUserSession33_212112794D6C4804ED591DB819FC2CC1LLSo7FIRUserCSgvp",
+          "moduleName": "SweatAppRestart",
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
           "name": "service",
           "printedName": "service",
           "children": [
@@ -5192,7 +7703,7 @@
             "HasStorage",
             "AccessControl"
           ],
-          "fixedbinaryorder": 2,
+          "fixedbinaryorder": 4,
           "isLet": true,
           "hasStorage": true
         },
@@ -5306,6 +7817,30 @@
         },
         {
           "kind": "Function",
+          "name": "uploadProfileImage",
+          "printedName": "uploadProfileImage(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIImage",
+              "printedName": "UIKit.UIImage",
+              "usr": "c:objc(cs)UIImage"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:15SweatAppRestart13AuthViewModelC18uploadProfileImageyySo7UIImageCF",
+          "mangledName": "$s15SweatAppRestart13AuthViewModelC18uploadProfileImageyySo7UIImageCF",
+          "moduleName": "SweatAppRestart",
+          "isOpen": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
           "name": "fetchUser",
           "printedName": "fetchUser()",
           "children": [
@@ -5350,6 +7885,111 @@
           ],
           "usr": "s:7Combine16ObservableObjectP",
           "mangledName": "$s7Combine16ObservableObjectP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Firebase",
+      "printedName": "Firebase",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart"
+    },
+    {
+      "kind": "Import",
+      "name": "FirebaseStorage",
+      "printedName": "FirebaseStorage",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ImageUploader",
+      "printedName": "ImageUploader",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "uploadImage",
+          "printedName": "uploadImage(image:completion:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIImage",
+              "printedName": "UIKit.UIImage",
+              "usr": "c:objc(cs)UIImage"
+            },
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(Swift.String) -> ()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ]
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:15SweatAppRestart13ImageUploaderV06uploadD05image10completionySo7UIImageC_ySSctFZ",
+          "mangledName": "$s15SweatAppRestart13ImageUploaderV06uploadD05image10completionySo7UIImageC_ySSctFZ",
+          "moduleName": "SweatAppRestart",
+          "static": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ImageUploader",
+              "printedName": "SweatAppRestart.ImageUploader",
+              "usr": "s:15SweatAppRestart13ImageUploaderV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart13ImageUploaderVACycfc",
+          "mangledName": "$s15SweatAppRestart13ImageUploaderVACycfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:15SweatAppRestart13ImageUploaderV",
+      "mangledName": "$s15SweatAppRestart13ImageUploaderV",
+      "moduleName": "SweatAppRestart",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
         }
       ]
     },
@@ -5650,9 +8290,150 @@
           ]
         },
         {
+          "kind": "Var",
+          "name": "deposited",
+          "printedName": "deposited",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart4UserV9depositedSSvp",
+          "mangledName": "$s15SweatAppRestart4UserV9depositedSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 4,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart4UserV9depositedSSvg",
+              "mangledName": "$s15SweatAppRestart4UserV9depositedSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "balance",
+          "printedName": "balance",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart4UserV7balanceSSvp",
+          "mangledName": "$s15SweatAppRestart4UserV7balanceSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 5,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart4UserV7balanceSSvg",
+              "mangledName": "$s15SweatAppRestart4UserV7balanceSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "profileImageUrl",
+          "printedName": "profileImageUrl",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart4UserV15profileImageUrlSSvp",
+          "mangledName": "$s15SweatAppRestart4UserV15profileImageUrlSSvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 6,
+          "isLet": true,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart4UserV15profileImageUrlSSvg",
+              "mangledName": "$s15SweatAppRestart4UserV15profileImageUrlSSvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "declAttributes": [
+                "Transparent"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
           "kind": "Constructor",
           "name": "init",
-          "printedName": "init(id:username:fullname:email:)",
+          "printedName": "init(id:username:fullname:email:deposited:balance:profileImageUrl:)",
           "children": [
             {
               "kind": "TypeNominal",
@@ -5692,11 +8473,29 @@
               "name": "String",
               "printedName": "Swift.String",
               "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
             }
           ],
           "declKind": "Constructor",
-          "usr": "s:15SweatAppRestart4UserV2id8username8fullname5emailACSSSg_S3Stcfc",
-          "mangledName": "$s15SweatAppRestart4UserV2id8username8fullname5emailACSSSg_S3Stcfc",
+          "usr": "s:15SweatAppRestart4UserV2id8username8fullname5email9deposited7balance15profileImageUrlACSSSg_S6Stcfc",
+          "mangledName": "$s15SweatAppRestart4UserV2id8username8fullname5email9deposited7balance15profileImageUrlACSSSg_S6Stcfc",
           "moduleName": "SweatAppRestart",
           "implicit": true,
           "init_kind": "Designated"
@@ -5769,6 +8568,275 @@
           "printedName": "Decodable",
           "usr": "s:Se",
           "mangledName": "$sSe"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftUI",
+      "printedName": "SwiftUI",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "FirstWelcomeView",
+      "printedName": "FirstWelcomeView",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "body",
+          "printedName": "body",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some SwiftUI.View",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "SwiftUI.View",
+                  "usr": "s:7SwiftUI4ViewP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart16FirstWelcomeViewV4bodyQrvp",
+          "mangledName": "$s15SweatAppRestart16FirstWelcomeViewV4bodyQrvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart16FirstWelcomeViewV4bodyQrvg",
+              "mangledName": "$s15SweatAppRestart16FirstWelcomeViewV4bodyQrvg",
+              "moduleName": "SweatAppRestart",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FirstWelcomeView",
+              "printedName": "SweatAppRestart.FirstWelcomeView",
+              "usr": "s:15SweatAppRestart16FirstWelcomeViewV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart16FirstWelcomeViewVACycfc",
+          "mangledName": "$s15SweatAppRestart16FirstWelcomeViewVACycfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:15SweatAppRestart16FirstWelcomeViewV",
+      "mangledName": "$s15SweatAppRestart16FirstWelcomeViewV",
+      "moduleName": "SweatAppRestart",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "View",
+          "printedName": "View",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI4ViewP",
+          "mangledName": "$s7SwiftUI4ViewP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "FirstWelcomeView_Previews",
+      "printedName": "FirstWelcomeView_Previews",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "previews",
+          "printedName": "previews",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some SwiftUI.View",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "SwiftUI.View",
+                  "usr": "s:7SwiftUI4ViewP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart25FirstWelcomeView_PreviewsV8previewsQrvpZ",
+          "mangledName": "$s15SweatAppRestart25FirstWelcomeView_PreviewsV8previewsQrvpZ",
+          "moduleName": "SweatAppRestart",
+          "static": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart25FirstWelcomeView_PreviewsV8previewsQrvgZ",
+              "mangledName": "$s15SweatAppRestart25FirstWelcomeView_PreviewsV8previewsQrvgZ",
+              "moduleName": "SweatAppRestart",
+              "static": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "FirstWelcomeView_Previews",
+              "printedName": "SweatAppRestart.FirstWelcomeView_Previews",
+              "usr": "s:15SweatAppRestart25FirstWelcomeView_PreviewsV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart25FirstWelcomeView_PreviewsVACycfc",
+          "mangledName": "$s15SweatAppRestart25FirstWelcomeView_PreviewsVACycfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:15SweatAppRestart25FirstWelcomeView_PreviewsV",
+      "mangledName": "$s15SweatAppRestart25FirstWelcomeView_PreviewsV",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "Custom"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "PreviewProvider",
+          "printedName": "PreviewProvider",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Previews",
+              "printedName": "Previews",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI15PreviewProviderP",
+          "mangledName": "$s7SwiftUI15PreviewProviderP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_PreviewProvider",
+          "printedName": "_PreviewProvider",
+          "usr": "s:7SwiftUI16_PreviewProviderP",
+          "mangledName": "$s7SwiftUI16_PreviewProviderP"
         },
         {
           "kind": "Conformance",
@@ -6486,44 +9554,6 @@
       "children": [
         {
           "kind": "Var",
-          "name": "profile",
-          "printedName": "profile",
-          "children": [
-            {
-              "kind": "TypeFunc",
-              "name": "Function",
-              "printedName": "(SweatAppRestart.SideMenuViewModel.Type) -> SweatAppRestart.SideMenuViewModel",
-              "children": [
-                {
-                  "kind": "TypeNominal",
-                  "name": "SideMenuViewModel",
-                  "printedName": "SweatAppRestart.SideMenuViewModel",
-                  "usr": "s:15SweatAppRestart17SideMenuViewModelO"
-                },
-                {
-                  "kind": "TypeNominal",
-                  "name": "Metatype",
-                  "printedName": "SweatAppRestart.SideMenuViewModel.Type",
-                  "children": [
-                    {
-                      "kind": "TypeNominal",
-                      "name": "SideMenuViewModel",
-                      "printedName": "SweatAppRestart.SideMenuViewModel",
-                      "usr": "s:15SweatAppRestart17SideMenuViewModelO"
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "declKind": "EnumElement",
-          "usr": "s:15SweatAppRestart17SideMenuViewModelO7profileyA2CmF",
-          "mangledName": "$s15SweatAppRestart17SideMenuViewModelO7profileyA2CmF",
-          "moduleName": "SweatAppRestart",
-          "fixedbinaryorder": 0
-        },
-        {
-          "kind": "Var",
           "name": "lists",
           "printedName": "lists",
           "children": [
@@ -6558,7 +9588,10 @@
           "usr": "s:15SweatAppRestart17SideMenuViewModelO5listsyA2CmF",
           "mangledName": "$s15SweatAppRestart17SideMenuViewModelO5listsyA2CmF",
           "moduleName": "SweatAppRestart",
-          "fixedbinaryorder": 1
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 0
         },
         {
           "kind": "Var",
@@ -6596,7 +9629,7 @@
           "usr": "s:15SweatAppRestart17SideMenuViewModelO9bookmarksyA2CmF",
           "mangledName": "$s15SweatAppRestart17SideMenuViewModelO9bookmarksyA2CmF",
           "moduleName": "SweatAppRestart",
-          "fixedbinaryorder": 2
+          "fixedbinaryorder": 1
         },
         {
           "kind": "Var",
@@ -6634,7 +9667,7 @@
           "usr": "s:15SweatAppRestart17SideMenuViewModelO6logoutyA2CmF",
           "mangledName": "$s15SweatAppRestart17SideMenuViewModelO6logoutyA2CmF",
           "moduleName": "SweatAppRestart",
-          "fixedbinaryorder": 3
+          "fixedbinaryorder": 2
         },
         {
           "kind": "Var",
@@ -6912,6 +9945,1357 @@
           ],
           "usr": "s:s12CaseIterableP",
           "mangledName": "$ss12CaseIterableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftUI",
+      "printedName": "SwiftUI",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ImagePicker",
+      "printedName": "ImagePicker",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "selectedImage",
+          "printedName": "selectedImage",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "UIKit.UIImage?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UIImage",
+                  "printedName": "UIKit.UIImage",
+                  "usr": "c:objc(cs)UIImage"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ImagePickerV08selectedD0So7UIImageCSgvp",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV08selectedD0So7UIImageCSgvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "UIKit.UIImage?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIImage",
+                      "printedName": "UIKit.UIImage",
+                      "usr": "c:objc(cs)UIImage"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart11ImagePickerV08selectedD0So7UIImageCSgvg",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV08selectedD0So7UIImageCSgvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "UIKit.UIImage?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIImage",
+                      "printedName": "UIKit.UIImage",
+                      "usr": "c:objc(cs)UIImage"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart11ImagePickerV08selectedD0So7UIImageCSgvs",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV08selectedD0So7UIImageCSgvs",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart11ImagePickerV08selectedD0So7UIImageCSgvM",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV08selectedD0So7UIImageCSgvM",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$selectedImage",
+          "printedName": "$selectedImage",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<UIKit.UIImage?>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "UIKit.UIImage?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIImage",
+                      "printedName": "UIKit.UIImage",
+                      "usr": "c:objc(cs)UIImage"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ImagePickerV09$selectedD07SwiftUI7BindingVySo7UIImageCSgGvp",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV09$selectedD07SwiftUI7BindingVySo7UIImageCSgGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<UIKit.UIImage?>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Optional",
+                      "printedName": "UIKit.UIImage?",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "UIImage",
+                          "printedName": "UIKit.UIImage",
+                          "usr": "c:objc(cs)UIImage"
+                        }
+                      ],
+                      "usr": "s:Sq"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart11ImagePickerV09$selectedD07SwiftUI7BindingVySo7UIImageCSgGvg",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV09$selectedD07SwiftUI7BindingVySo7UIImageCSgGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_selectedImage",
+          "printedName": "_selectedImage",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<UIKit.UIImage?>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "UIKit.UIImage?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIImage",
+                      "printedName": "UIKit.UIImage",
+                      "usr": "c:objc(cs)UIImage"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ImagePickerV09_selectedD033_CD7B20AB30E48BD980C09ECEB4B64FDBLL7SwiftUI7BindingVySo7UIImageCSgGvp",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV09_selectedD033_CD7B20AB30E48BD980C09ECEB4B64FDBLL7SwiftUI7BindingVySo7UIImageCSgGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "presentationMode",
+          "printedName": "presentationMode",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<SwiftUI.PresentationMode>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "PresentationMode",
+                  "printedName": "SwiftUI.PresentationMode",
+                  "usr": "s:7SwiftUI16PresentationModeV"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ImagePickerV16presentationMode7SwiftUI7BindingVyAE012PresentationG0VGvp",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV16presentationMode7SwiftUI7BindingVyAE012PresentationG0VGvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<SwiftUI.PresentationMode>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PresentationMode",
+                      "printedName": "SwiftUI.PresentationMode",
+                      "usr": "s:7SwiftUI16PresentationModeV"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart11ImagePickerV16presentationMode7SwiftUI7BindingVyAE012PresentationG0VGvg",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV16presentationMode7SwiftUI7BindingVyAE012PresentationG0VGvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_presentationMode",
+          "printedName": "_presentationMode",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Environment",
+              "printedName": "SwiftUI.Environment<SwiftUI.Binding<SwiftUI.PresentationMode>>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<SwiftUI.PresentationMode>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PresentationMode",
+                      "printedName": "SwiftUI.PresentationMode",
+                      "usr": "s:7SwiftUI16PresentationModeV"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "usr": "s:7SwiftUI11EnvironmentV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart11ImagePickerV17_presentationMode33_CD7B20AB30E48BD980C09ECEB4B64FDBLL7SwiftUI11EnvironmentVyAF7BindingVyAF012PresentationG0VGGvp",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV17_presentationMode33_CD7B20AB30E48BD980C09ECEB4B64FDBLL7SwiftUI11EnvironmentVyAF7BindingVyAF012PresentationG0VGGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true
+        },
+        {
+          "kind": "Function",
+          "name": "makeCoordinator",
+          "printedName": "makeCoordinator()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Coordinator",
+              "printedName": "SweatAppRestart.ImagePicker.Coordinator",
+              "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorC"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:15SweatAppRestart11ImagePickerV15makeCoordinatorAC0G0CyF",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV15makeCoordinatorAC0G0CyF",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "makeUIViewController",
+          "printedName": "makeUIViewController(context:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some UIKit.UIViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIViewControllerRepresentableContext",
+              "printedName": "SwiftUI.UIViewControllerRepresentableContext<SweatAppRestart.ImagePicker>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImagePicker",
+                  "printedName": "SweatAppRestart.ImagePicker",
+                  "usr": "s:15SweatAppRestart11ImagePickerV"
+                }
+              ],
+              "usr": "s:7SwiftUI36UIViewControllerRepresentableContextV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:15SweatAppRestart11ImagePickerV20makeUIViewController7contextQr7SwiftUI0gH20RepresentableContextVyACG_tF",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV20makeUIViewController7contextQr7SwiftUI0gH20RepresentableContextVyACG_tF",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "updateUIViewController",
+          "printedName": "updateUIViewController(_:context:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some UIKit.UIViewController"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "UIViewControllerRepresentableContext",
+              "printedName": "SwiftUI.UIViewControllerRepresentableContext<SweatAppRestart.ImagePicker>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImagePicker",
+                  "printedName": "SweatAppRestart.ImagePicker",
+                  "usr": "s:15SweatAppRestart11ImagePickerV"
+                }
+              ],
+              "usr": "s:7SwiftUI36UIViewControllerRepresentableContextV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:15SweatAppRestart11ImagePickerV22updateUIViewController_7contextyAC04makegH0AEQr7SwiftUI0gH20RepresentableContextVyACG_tFQOy_Qo__AJtF",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV22updateUIViewController_7contextyAC04makegH0AEQr7SwiftUI0gH20RepresentableContextVyACG_tFQOy_Qo__AJtF",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(selectedImage:presentationMode:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ImagePicker",
+              "printedName": "SweatAppRestart.ImagePicker",
+              "usr": "s:15SweatAppRestart11ImagePickerV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Binding",
+              "printedName": "SwiftUI.Binding<UIKit.UIImage?>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "UIKit.UIImage?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIImage",
+                      "printedName": "UIKit.UIImage",
+                      "usr": "c:objc(cs)UIImage"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "usr": "s:7SwiftUI7BindingV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Environment",
+              "printedName": "SwiftUI.Environment<SwiftUI.Binding<SwiftUI.PresentationMode>>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Binding",
+                  "printedName": "SwiftUI.Binding<SwiftUI.PresentationMode>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "PresentationMode",
+                      "printedName": "SwiftUI.PresentationMode",
+                      "usr": "s:7SwiftUI16PresentationModeV"
+                    }
+                  ],
+                  "usr": "s:7SwiftUI7BindingV"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:7SwiftUI11EnvironmentV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart11ImagePickerV08selectedD016presentationModeAC7SwiftUI7BindingVySo7UIImageCSgG_AF11EnvironmentVyAHyAF012PresentationH0VGGtcfc",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV08selectedD016presentationModeAC7SwiftUI7BindingVySo7UIImageCSgG_AF11EnvironmentVyAHyAF012PresentationH0VGGtcfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "TypeDecl",
+          "name": "Coordinator",
+          "printedName": "Coordinator",
+          "children": [
+            {
+              "kind": "Var",
+              "name": "parent",
+              "printedName": "parent",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImagePicker",
+                  "printedName": "SweatAppRestart.ImagePicker",
+                  "usr": "s:15SweatAppRestart11ImagePickerV"
+                }
+              ],
+              "declKind": "Var",
+              "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorC6parentACvp",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV11CoordinatorC6parentACvp",
+              "moduleName": "SweatAppRestart",
+              "declAttributes": [
+                "Custom",
+                "Final",
+                "HasStorage"
+              ],
+              "fixedbinaryorder": 0,
+              "isLet": true,
+              "hasStorage": true,
+              "accessors": [
+                {
+                  "kind": "Accessor",
+                  "name": "Get",
+                  "printedName": "Get()",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ImagePicker",
+                      "printedName": "SweatAppRestart.ImagePicker",
+                      "usr": "s:15SweatAppRestart11ImagePickerV"
+                    }
+                  ],
+                  "declKind": "Accessor",
+                  "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorC6parentACvg",
+                  "mangledName": "$s15SweatAppRestart11ImagePickerV11CoordinatorC6parentACvg",
+                  "moduleName": "SweatAppRestart",
+                  "implicit": true,
+                  "declAttributes": [
+                    "Final"
+                  ],
+                  "accessorKind": "get"
+                }
+              ]
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(_:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Coordinator",
+                  "printedName": "SweatAppRestart.ImagePicker.Coordinator",
+                  "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImagePicker",
+                  "printedName": "SweatAppRestart.ImagePicker",
+                  "usr": "s:15SweatAppRestart11ImagePickerV"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorCyAeCcfc",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV11CoordinatorCyAeCcfc",
+              "moduleName": "SweatAppRestart",
+              "declAttributes": [
+                "Custom"
+              ],
+              "init_kind": "Designated"
+            },
+            {
+              "kind": "Function",
+              "name": "imagePickerController",
+              "printedName": "imagePickerController(_:didFinishPickingMediaWithInfo:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "UIImagePickerController",
+                  "printedName": "UIKit.UIImagePickerController",
+                  "usr": "c:objc(cs)UIImagePickerController"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[UIKit.UIImagePickerController.InfoKey : Any]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "InfoKey",
+                      "printedName": "UIKit.UIImagePickerController.InfoKey",
+                      "usr": "c:@T@UIImagePickerControllerInfoKey"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "Any"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Func",
+              "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorC05imageE10Controller_29didFinishPickingMediaWithInfoySo07UIImageeH0C_SDySo0oehN3KeyaypGtF",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV11CoordinatorC05imageE10Controller_29didFinishPickingMediaWithInfoySo07UIImageeH0C_SDySo0oehN3KeyaypGtF",
+              "moduleName": "SweatAppRestart",
+              "isOpen": true,
+              "objc_name": "imagePickerController:didFinishPickingMediaWithInfo:",
+              "declAttributes": [
+                "ObjC",
+                "Custom"
+              ],
+              "funcSelfKind": "NonMutating"
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Coordinator",
+                  "printedName": "SweatAppRestart.ImagePicker.Coordinator",
+                  "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorC"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorCAEycfc",
+              "mangledName": "$s15SweatAppRestart11ImagePickerV11CoordinatorCAEycfc",
+              "moduleName": "SweatAppRestart",
+              "overriding": true,
+              "implicit": true,
+              "objc_name": "init",
+              "declAttributes": [
+                "Dynamic",
+                "ObjC",
+                "Override"
+              ],
+              "init_kind": "Designated"
+            }
+          ],
+          "declKind": "Class",
+          "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorC",
+          "mangledName": "$s15SweatAppRestart11ImagePickerV11CoordinatorC",
+          "moduleName": "SweatAppRestart",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "ObjC"
+          ],
+          "superclassUsr": "c:objc(cs)NSObject",
+          "superclassNames": [
+            "ObjectiveC.NSObject"
+          ],
+          "conformances": [
+            {
+              "kind": "Conformance",
+              "name": "Equatable",
+              "printedName": "Equatable",
+              "usr": "s:SQ",
+              "mangledName": "$sSQ"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Hashable",
+              "printedName": "Hashable",
+              "usr": "s:SH",
+              "mangledName": "$sSH"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CVarArg",
+              "printedName": "CVarArg",
+              "usr": "s:s7CVarArgP",
+              "mangledName": "$ss7CVarArgP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "_KeyValueCodingAndObservingPublishing",
+              "printedName": "_KeyValueCodingAndObservingPublishing",
+              "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+              "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "_KeyValueCodingAndObserving",
+              "printedName": "_KeyValueCodingAndObserving",
+              "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+              "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CustomStringConvertible",
+              "printedName": "CustomStringConvertible",
+              "usr": "s:s23CustomStringConvertibleP",
+              "mangledName": "$ss23CustomStringConvertibleP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CustomDebugStringConvertible",
+              "printedName": "CustomDebugStringConvertible",
+              "usr": "s:s28CustomDebugStringConvertibleP",
+              "mangledName": "$ss28CustomDebugStringConvertibleP"
+            }
+          ]
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:15SweatAppRestart11ImagePickerV",
+      "mangledName": "$s15SweatAppRestart11ImagePickerV",
+      "moduleName": "SweatAppRestart",
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "UIViewControllerRepresentable",
+          "printedName": "UIViewControllerRepresentable",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "UIViewControllerType",
+              "printedName": "UIViewControllerType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some UIKit.UIViewController"
+                }
+              ]
+            },
+            {
+              "kind": "TypeWitness",
+              "name": "Coordinator",
+              "printedName": "Coordinator",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Coordinator",
+                  "printedName": "SweatAppRestart.ImagePicker.Coordinator",
+                  "usr": "s:15SweatAppRestart11ImagePickerV11CoordinatorC"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI29UIViewControllerRepresentableP",
+          "mangledName": "$s7SwiftUI29UIViewControllerRepresentableP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "View",
+          "printedName": "View",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Never",
+                  "printedName": "Swift.Never",
+                  "usr": "s:s5NeverO"
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI4ViewP",
+          "mangledName": "$s7SwiftUI4ViewP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "SwiftUI",
+      "printedName": "SwiftUI",
+      "declKind": "Import",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ProfilePhotoSelectorView",
+      "printedName": "ProfilePhotoSelectorView",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "_showImagePicker",
+          "printedName": "_showImagePicker",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<Swift.Bool>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Bool",
+                  "printedName": "Swift.Bool",
+                  "usr": "s:Sb"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV16_showImagePicker33_363D050291CCD3DD071641DEA6C9D2FDLL7SwiftUI5StateVySbGvp",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV16_showImagePicker33_363D050291CCD3DD071641DEA6C9D2FDLL7SwiftUI5StateVySbGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "_selectedImage",
+          "printedName": "_selectedImage",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<UIKit.UIImage?>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "UIKit.UIImage?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIImage",
+                      "printedName": "UIKit.UIImage",
+                      "usr": "c:objc(cs)UIImage"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV14_selectedImage33_363D050291CCD3DD071641DEA6C9D2FDLL7SwiftUI5StateVySo7UIImageCSgGvp",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV14_selectedImage33_363D050291CCD3DD071641DEA6C9D2FDLL7SwiftUI5StateVySo7UIImageCSgGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "_profileImage",
+          "printedName": "_profileImage",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "State",
+              "printedName": "SwiftUI.State<SwiftUI.Image?>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "SwiftUI.Image?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Image",
+                      "printedName": "SwiftUI.Image",
+                      "usr": "s:7SwiftUI5ImageV"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "usr": "s:7SwiftUI5StateV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV13_profileImage33_363D050291CCD3DD071641DEA6C9D2FDLL7SwiftUI5StateVyAF0I0VSgGvp",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV13_profileImage33_363D050291CCD3DD071641DEA6C9D2FDLL7SwiftUI5StateVyAF0I0VSgGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "viewModel",
+          "printedName": "viewModel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "AuthViewModel",
+              "printedName": "SweatAppRestart.AuthViewModel",
+              "usr": "s:15SweatAppRestart13AuthViewModelC"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV9viewModelAA04AuthgI0Cvp",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV9viewModelAA04AuthgI0Cvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom",
+            "ProjectedValueProperty",
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AuthViewModel",
+                  "printedName": "SweatAppRestart.AuthViewModel",
+                  "usr": "s:15SweatAppRestart13AuthViewModelC"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV9viewModelAA04AuthgI0Cvg",
+              "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV9viewModelAA04AuthgI0Cvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "$viewModel",
+          "printedName": "$viewModel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Wrapper",
+              "printedName": "SwiftUI.EnvironmentObject<SweatAppRestart.AuthViewModel>.Wrapper",
+              "usr": "s:7SwiftUI17EnvironmentObjectV7WrapperV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV10$viewModel7SwiftUI17EnvironmentObjectV7WrapperVyAA04AuthgI0C_Gvp",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV10$viewModel7SwiftUI17EnvironmentObjectV7WrapperVyAA04AuthgI0C_Gvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Wrapper",
+                  "printedName": "SwiftUI.EnvironmentObject<SweatAppRestart.AuthViewModel>.Wrapper",
+                  "usr": "s:7SwiftUI17EnvironmentObjectV7WrapperV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV10$viewModel7SwiftUI17EnvironmentObjectV7WrapperVyAA04AuthgI0C_Gvg",
+              "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV10$viewModel7SwiftUI17EnvironmentObjectV7WrapperVyAA04AuthgI0C_Gvg",
+              "moduleName": "SweatAppRestart",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "_viewModel",
+          "printedName": "_viewModel",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "EnvironmentObject",
+              "printedName": "SwiftUI.EnvironmentObject<SweatAppRestart.AuthViewModel>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AuthViewModel",
+                  "printedName": "SweatAppRestart.AuthViewModel",
+                  "usr": "s:15SweatAppRestart13AuthViewModelC"
+                }
+              ],
+              "usr": "s:7SwiftUI17EnvironmentObjectV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV10_viewModel33_363D050291CCD3DD071641DEA6C9D2FDLL7SwiftUI17EnvironmentObjectVyAA04AuthgI0CGvp",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV10_viewModel33_363D050291CCD3DD071641DEA6C9D2FDLL7SwiftUI17EnvironmentObjectVyAA04AuthgI0CGvp",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true
+        },
+        {
+          "kind": "Var",
+          "name": "body",
+          "printedName": "body",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some SwiftUI.View",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "SwiftUI.View",
+                  "usr": "s:7SwiftUI4ViewP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV4bodyQrvp",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV4bodyQrvp",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV4bodyQrvg",
+              "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV4bodyQrvg",
+              "moduleName": "SweatAppRestart",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "loadImage",
+          "printedName": "loadImage()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV9loadImageyyF",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV9loadImageyyF",
+          "moduleName": "SweatAppRestart",
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(viewModel:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ProfilePhotoSelectorView",
+              "printedName": "SweatAppRestart.ProfilePhotoSelectorView",
+              "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "EnvironmentObject",
+              "printedName": "SwiftUI.EnvironmentObject<SweatAppRestart.AuthViewModel>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "AuthViewModel",
+                  "printedName": "SweatAppRestart.AuthViewModel",
+                  "usr": "s:15SweatAppRestart13AuthViewModelC"
+                }
+              ],
+              "hasDefaultArg": true,
+              "usr": "s:7SwiftUI17EnvironmentObjectV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV9viewModelAC7SwiftUI17EnvironmentObjectVyAA04AuthgI0CG_tcfc",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV9viewModelAC7SwiftUI17EnvironmentObjectVyAA04AuthgI0CG_tcfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ProfilePhotoSelectorView",
+              "printedName": "SweatAppRestart.ProfilePhotoSelectorView",
+              "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewVACycfc",
+          "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewVACycfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:15SweatAppRestart24ProfilePhotoSelectorViewV",
+      "mangledName": "$s15SweatAppRestart24ProfilePhotoSelectorViewV",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "Custom"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "View",
+          "printedName": "View",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Body",
+              "printedName": "Body",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI4ViewP",
+          "mangledName": "$s7SwiftUI4ViewP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Sendable",
+          "printedName": "Sendable",
+          "usr": "s:s8SendableP",
+          "mangledName": "$ss8SendableP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ProfilePhotoSelectorView_Previews",
+      "printedName": "ProfilePhotoSelectorView_Previews",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "previews",
+          "printedName": "previews",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "OpaqueTypeArchetype",
+              "printedName": "some SwiftUI.View",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "View",
+                  "printedName": "SwiftUI.View",
+                  "usr": "s:7SwiftUI4ViewP"
+                }
+              ]
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:15SweatAppRestart33ProfilePhotoSelectorView_PreviewsV8previewsQrvpZ",
+          "mangledName": "$s15SweatAppRestart33ProfilePhotoSelectorView_PreviewsV8previewsQrvpZ",
+          "moduleName": "SweatAppRestart",
+          "static": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:15SweatAppRestart33ProfilePhotoSelectorView_PreviewsV8previewsQrvgZ",
+              "mangledName": "$s15SweatAppRestart33ProfilePhotoSelectorView_PreviewsV8previewsQrvgZ",
+              "moduleName": "SweatAppRestart",
+              "static": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ProfilePhotoSelectorView_Previews",
+              "printedName": "SweatAppRestart.ProfilePhotoSelectorView_Previews",
+              "usr": "s:15SweatAppRestart33ProfilePhotoSelectorView_PreviewsV"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:15SweatAppRestart33ProfilePhotoSelectorView_PreviewsVACycfc",
+          "mangledName": "$s15SweatAppRestart33ProfilePhotoSelectorView_PreviewsVACycfc",
+          "moduleName": "SweatAppRestart",
+          "implicit": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Struct",
+      "usr": "s:15SweatAppRestart33ProfilePhotoSelectorView_PreviewsV",
+      "mangledName": "$s15SweatAppRestart33ProfilePhotoSelectorView_PreviewsV",
+      "moduleName": "SweatAppRestart",
+      "declAttributes": [
+        "Custom"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "PreviewProvider",
+          "printedName": "PreviewProvider",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "Previews",
+              "printedName": "Previews",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "OpaqueTypeArchetype",
+                  "printedName": "some SwiftUI.View",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "View",
+                      "printedName": "SwiftUI.View",
+                      "usr": "s:7SwiftUI4ViewP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "usr": "s:7SwiftUI15PreviewProviderP",
+          "mangledName": "$s7SwiftUI15PreviewProviderP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_PreviewProvider",
+          "printedName": "_PreviewProvider",
+          "usr": "s:7SwiftUI16_PreviewProviderP",
+          "mangledName": "$s7SwiftUI16_PreviewProviderP"
         },
         {
           "kind": "Conformance",

@@ -1,0 +1,121 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "386997264EAC5DAFBB8E63ABF89901B2D81C77A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "43BF8F9148B1F39FBDE34E7D1E69C54C78D21FCC" : 0,
+    "62375E9881500B35D7AF53F4C8EA87FCDA18DCD1" : 0,
+    "FFE95BF54ABCFA8FFF3C6CA12C8A84A660223B55" : 0,
+    "386997264EAC5DAFBB8E63ABF89901B2D81C77A0" : 0,
+    "76A15575C5B740800EF8E92EA66B97A276AEF659" : 0,
+    "BDF394AD00F0672C031FDA5A297CD80086AC8A54" : 0,
+    "6C9BE91B69DAB9AF34B0E247420B176A1E20E63E" : 0,
+    "FAD0B99C3A0EB9F5EAC9FDFC4A76471FB31CBC6F" : 0,
+    "2F796B815895EDF15A835DE863D2381459406F2F" : 0,
+    "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1" : 0,
+    "C7278AF1F45A3BCA0BC4DD51A6A158196873E137" : 0,
+    "B76A9786E45DA7F517EDF258727A83D05C5182FC" : 0,
+    "5A3BF1E9AF3F6B5BD78A5A9A34A863E617D32BA9" : 0,
+    "B374AB6FD1354D59586A44AA008CD49AD0088C73" : 0,
+    "C58191DD8F525E653845BA7BE4FF5AF6AC307963" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3441A4A6-8926-4F45-8035-BDD34B18CD49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "43BF8F9148B1F39FBDE34E7D1E69C54C78D21FCC" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/swift-protobuf\/",
+    "62375E9881500B35D7AF53F4C8EA87FCDA18DCD1" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/GoogleUtilities\/",
+    "FFE95BF54ABCFA8FFF3C6CA12C8A84A660223B55" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/GoogleAppMeasurement\/",
+    "386997264EAC5DAFBB8E63ABF89901B2D81C77A0" : "SweatAppRestart\/",
+    "76A15575C5B740800EF8E92EA66B97A276AEF659" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/leveldb\/third_party\/googletest\/",
+    "BDF394AD00F0672C031FDA5A297CD80086AC8A54" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/leveldb\/",
+    "6C9BE91B69DAB9AF34B0E247420B176A1E20E63E" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/grpc-ios\/",
+    "FAD0B99C3A0EB9F5EAC9FDFC4A76471FB31CBC6F" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/gtm-session-fetcher\/",
+    "2F796B815895EDF15A835DE863D2381459406F2F" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/firebase-ios-sdk\/",
+    "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/Kingfisher\/",
+    "C7278AF1F45A3BCA0BC4DD51A6A158196873E137" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/abseil-cpp-SwiftPM\/",
+    "B76A9786E45DA7F517EDF258727A83D05C5182FC" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/nanopb\/",
+    "5A3BF1E9AF3F6B5BD78A5A9A34A863E617D32BA9" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/boringssl-SwiftPM\/",
+    "B374AB6FD1354D59586A44AA008CD49AD0088C73" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/GoogleDataTransport\/",
+    "C58191DD8F525E653845BA7BE4FF5AF6AC307963" : "SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/checkouts\/promises\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SweatAppRestart",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SweatAppRestart.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/Kingfisher-917a2b51",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/firebase-ios-sdk-c63c6384",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F796B815895EDF15A835DE863D2381459406F2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kratik-agrawal\/SweatApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "386997264EAC5DAFBB8E63ABF89901B2D81C77A0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/swift-protobuf-9f1e4ec4",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "43BF8F9148B1F39FBDE34E7D1E69C54C78D21FCC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/boringssl-SwiftPM-c3eba25b",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A3BF1E9AF3F6B5BD78A5A9A34A863E617D32BA9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/GoogleUtilities-34a5fa84",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "62375E9881500B35D7AF53F4C8EA87FCDA18DCD1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/grpc-ios-9a5f03c1",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6C9BE91B69DAB9AF34B0E247420B176A1E20E63E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/google\/googletest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76A15575C5B740800EF8E92EA66B97A276AEF659"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/GoogleDataTransport-2feee0f8",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B374AB6FD1354D59586A44AA008CD49AD0088C73"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/nanopb-208d9073",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B76A9786E45DA7F517EDF258727A83D05C5182FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/leveldb-12d5b35c",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BDF394AD00F0672C031FDA5A297CD80086AC8A54"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/promises-effc8acf",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C58191DD8F525E653845BA7BE4FF5AF6AC307963"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/abseil-cpp-SwiftPM-cc296c64",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C7278AF1F45A3BCA0BC4DD51A6A158196873E137"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/gtm-session-fetcher-66fe3e42",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FAD0B99C3A0EB9F5EAC9FDFC4A76471FB31CBC6F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/kratik\/Desktop\/SweatAppRestart\/DerivedData\/SweatAppRestart\/SourcePackages\/repositories\/GoogleAppMeasurement-0ed9e027",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFE95BF54ABCFA8FFF3C6CA12C8A84A660223B55"
+    }
+  ]
+}

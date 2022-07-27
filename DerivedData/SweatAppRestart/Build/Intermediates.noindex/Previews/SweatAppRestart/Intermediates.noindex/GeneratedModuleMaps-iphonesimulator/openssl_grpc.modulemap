@@ -1,0 +1,4 @@
+module openssl_grpc {
+umbrella "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/boringssl-SwiftPM/src/include"
+export *
+}

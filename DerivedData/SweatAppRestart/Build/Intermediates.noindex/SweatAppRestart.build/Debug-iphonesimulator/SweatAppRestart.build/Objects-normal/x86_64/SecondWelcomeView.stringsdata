@@ -1,0 +1,28 @@
+{
+  "source": "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Welcome/SecondWelcomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "What is your Favorite Workout?"
+      },
+      {
+        "comment": "",
+        "key": "Why do you workout?"
+      },
+      {
+        "comment": "",
+        "key": "How did you hear about Sweat?"
+      },
+      {
+        "comment": "",
+        "key": "Estimated Workouts/Week?"
+      },
+      {
+        "comment": "",
+        "key": "Continue"
+      }
+    ]
+  },
+  "version": 1
+}

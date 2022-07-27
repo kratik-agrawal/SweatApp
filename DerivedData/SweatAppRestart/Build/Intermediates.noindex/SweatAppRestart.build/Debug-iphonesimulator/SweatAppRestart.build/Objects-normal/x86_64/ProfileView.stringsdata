@@ -1,5 +1,28 @@
 {
   "source": "/Users/kratik/Desktop/SweatAppRestart/SweatAppRestart/Core/Profile/Views/ProfileView.swift",
-  "tables": {},
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "@%@"
+      },
+      {
+        "comment": "",
+        "key": "Your Current Balance"
+      },
+      {
+        "comment": "",
+        "key": "$%@"
+      },
+      {
+        "comment": "",
+        "key": "You Have Made"
+      },
+      {
+        "comment": "",
+        "key": "$12.34"
+      }
+    ]
+  },
   "version": 1
 }

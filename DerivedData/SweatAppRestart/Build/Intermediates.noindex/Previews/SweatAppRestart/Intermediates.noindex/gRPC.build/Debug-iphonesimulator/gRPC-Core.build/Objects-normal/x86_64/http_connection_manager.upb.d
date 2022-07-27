@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/extensions/filters/network/http_connection_manager/v3/http_connection_manager.upb.c \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/openssl_grpc.modulemap \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/Build/Intermediates.noindex/GeneratedModuleMaps-iphonesimulator/abseil.modulemap \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/msg_internal.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/msg.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/port_def.inc \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/port_undef.inc \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/table_internal.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/extensions/filters/network/http_connection_manager/v3/http_connection_manager.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/decode.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/decode_fast.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/third_party/upb/upb/encode.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/accesslog/v3/accesslog.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/core/v3/base.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/core/v3/config_source.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/core/v3/extension.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/core/v3/protocol.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/core/v3/substitution_format_string.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/route/v3/route.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/route/v3/scoped_route.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/config/trace/v3/http_tracer.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/type/http/v3/path_transformation.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/type/tracing/v3/custom_tag.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/envoy/type/v3/percent.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/google/protobuf/any.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/google/protobuf/duration.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/google/protobuf/wrappers.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/udpa/annotations/migrate.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/udpa/annotations/security.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/udpa/annotations/status.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/udpa/annotations/versioning.upb.h \
+  /Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/grpc-ios/native_src/src/core/ext/upb-generated/validate/validate.upb.h

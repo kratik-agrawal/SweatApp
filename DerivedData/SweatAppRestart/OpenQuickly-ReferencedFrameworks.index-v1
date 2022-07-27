@@ -2,119 +2,127 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>FirebaseMessaging</string>
-	<string>FirebaseAnalyticsSwift</string>
-	<string>path</string>
-	<string>CommonCrypto</string>
-	<string>sys</string>
-	<string>XCTest</string>
-	<string>Dispatch</string>
-	<string>FirebaseCoreExtension</string>
+	<string>TVUIKit</string>
+	<string>FirebaseFirestoreTestingSupport</string>
 	<string>FBSDKCoreKit</string>
-	<string>HeartbeatLoggingTestUtils</string>
 	<string>doesn</string>
-	<string>FBLPromisesTestHelpers</string>
-	<string>FirebaseABTesting</string>
-	<string>FBLPromises</string>
-	<string>one</string>
-	<string>PromisesTestHelpers</string>
-	<string>Darwin</string>
-	<string>SwiftProtobuf</string>
-	<string>FirebaseDatabase</string>
-	<string>FirebaseInstallations</string>
-	<string>netinet</string>
-	<string>FirebaseAuthInterop</string>
-	<string>FirebaseRemoteConfig</string>
-	<string>UIKit</string>
-	<string>public</string>
-	<string>mach</string>
-	<string>Glibc</string>
-	<string>MobileCoreServices</string>
-	<string>FirebaseAnalytics</string>
-	<string>CoreTelephony</string>
-	<string>DeviceCheck</string>
+	<string>Swift</string>
+	<string>WebKit</string>
+	<string>ImageIO</string>
+	<string>FirebaseAuthCombineSwift</string>
+	<string>FirebaseAppDistribution</string>
 	<string>FirebaseCombineSwift</string>
+	<string>EarlGrey</string>
+	<string>FirebaseMLModelDownloader</string>
+	<string>FirebaseDynamicLinks</string>
+	<string>CoreGraphics</string>
+	<string>HeartbeatLoggingTestUtils</string>
+	<string>GCDWebServer</string>
+	<string>FirebaseStorage</string>
+	<string>CoreData</string>
+	<string>mach</string>
+	<string>FirebaseAuthTestingSupport</string>
+	<string>FirebaseRemoteConfigSwift</string>
+	<string>FirebaseSharedSwift</string>
+	<string>SystemConfiguration</string>
+	<string>SwiftProtobufPluginLibraryTests</string>
+	<string>SwiftProtobuf</string>
+	<string>MetricKit</string>
+	<string>FirebaseCore</string>
+	<string>a</string>
+	<string>unicode</string>
+	<string>FirebaseCoreExtension</string>
 	<string>Firebase</string>
 	<string>FirebaseFunctions</string>
-	<string>Promises</string>
 	<string>GameKit</string>
-	<string>FirebaseInAppMessaging</string>
-	<string>MetricKit</string>
-	<string>FirebaseAuthTestingSupport</string>
-	<string>OCMock</string>
-	<string>FirebaseCrashlytics</string>
-	<string>dispatch</string>
-	<string>FirebaseStorageCombineSwift</string>
-	<string>RemoteConfigFakeConsoleObjC</string>
-	<string>PackageDescription</string>
-	<string>CoreData</string>
-	<string>GoogleUtilities</string>
-	<string>CoreServices</string>
-	<string>FirebaseAppCheckInterop</string>
-	<string>AppKit</string>
-	<string>states</string>
-	<string>UserNotifications</string>
-	<string>nanopb</string>
-	<string>FirebaseMessagingInterop</string>
+	<string>AuthenticationServices</string>
+	<string>SwiftUI</string>
+	<string>FirebaseDatabaseSwift</string>
+	<string>FirebaseAuthInterop</string>
 	<string>FirebaseFunctionsCombineSwift</string>
-	<string>of</string>
-	<string>Network</string>
-	<string>SharedTestUtilities</string>
-	<string>Cocoa</string>
-	<string>a</string>
-	<string>Foundation</string>
-	<string>SwiftProtobufPluginLibrary</string>
-	<string>FirebaseDynamicLinks</string>
-	<string>ClockKit</string>
+	<string>AVKit</string>
+	<string>RemoteConfigFakeConsoleObjC</string>
+	<string>GoogleDataTransport</string>
+	<string>CFNetwork</string>
+	<string>FirebasePerformance</string>
+	<string>FirebaseStorageCombineSwift</string>
+	<string>FBLPromisesTestHelpers</string>
+	<string>complicate</string>
+	<string>CoreTelephony</string>
+	<string>GTMSessionFetcherLogView</string>
 	<string>FirebaseAuth</string>
-	<string>FirebaseAppDistribution</string>
+	<string>CoreImage</string>
 	<string>GTMSessionFetcherFull</string>
-	<string>SystemConfiguration</string>
-	<string>EarlGrey</string>
-	<string>FirebaseStorage</string>
-	<string>GTMSessionFetcherCore</string>
-	<string>FirebaseMLModelDownloader</string>
-	<string>TensorFlowLite</string>
+	<string>FirebaseFirestoreSwift</string>
+	<string>ClockKit</string>
+	<string>objc</string>
+	<string>FirebaseAnalyticsSwift</string>
+	<string>FirebaseMessaging</string>
+	<string>MobileCoreServices</string>
 	<string>GoogleUtilitiesComponents</string>
 	<string>WatchKit</string>
-	<string>complicate</string>
-	<string>should</string>
-	<string>SwiftProtobufTests</string>
-	<string>WebKit</string>
-	<string>Security</string>
-	<string>FirebaseCore</string>
-	<string>GoogleDataTransport</string>
-	<string>FirebaseStorageInternal</string>
-	<string>AuthenticationServices</string>
+	<string>netinet</string>
+	<string>SharedTestUtilities</string>
+	<string>GTMSessionFetcher</string>
+	<string>FirebaseInstallations</string>
 	<string>FBSDKLoginKit</string>
-	<string>the</string>
-	<string>SwiftProtobufPluginLibraryTests</string>
-	<string>FirebaseRemoteConfigSwift</string>
+	<string>GoogleSignIn</string>
+	<string>AppKit</string>
+	<string>UserNotifications</string>
+	<string>CarPlay</string>
+	<string>FirebaseInAppMessaging</string>
+	<string>FirebaseFirestoreCombineSwift</string>
+	<string>Accelerate</string>
+	<string>TensorFlowLite</string>
+	<string>SwiftProtobufTests</string>
+	<string>FirebaseDatabase</string>
+	<string>Security</string>
 	<string>QuartzCore</string>
-	<string>unicode</string>
+	<string>FirebaseStorageInternal</string>
+	<string>FirebaseAppCheckInterop</string>
+	<string>CommonCrypto</string>
+	<string>XCTest</string>
+	<string>Glibc</string>
+	<string>FBLPromises</string>
+	<string>FirebaseAnalytics</string>
+	<string>FirebaseMessagingInterop</string>
+	<string>Dispatch</string>
+	<string>CoreServices</string>
+	<string>Combine</string>
+	<string>FirebaseCrashlytics</string>
+	<string>PackageDescription</string>
+	<string>PromisesTestHelpers</string>
+	<string>GTMSessionFetcherCore</string>
 	<string>FirebaseInAppMessagingSwift</string>
-	<string>FirebaseFirestoreSwift</string>
-	<string>SafariServices</string>
 	<string>FirebaseAppCheck</string>
 	<string>FirebaseFirestore</string>
-	<string>FirebaseAuthCombineSwift</string>
-	<string>SwiftUI</string>
-	<string>FirebaseFirestoreCombineSwift</string>
-	<string>FirebaseFirestoreTestingSupport</string>
-	<string>os</string>
-	<string>FirebaseDatabaseSwift</string>
-	<string>objc</string>
-	<string>GCDWebServer</string>
-	<string>FirebaseSharedSwift</string>
-	<string>Framework</string>
-	<string>CFNetwork</string>
-	<string>Combine</string>
-	<string>FirebasePerformance</string>
+	<string>of</string>
+	<string>FirebaseRemoteConfig</string>
 	<string>FirebaseCoreInternal</string>
+	<string>OCMock</string>
+	<string>Promises</string>
+	<string>dispatch</string>
+	<string>SwiftProtobufPluginLibrary</string>
+	<string>one</string>
+	<string>Kingfisher</string>
+	<string>sys</string>
+	<string>DeviceCheck</string>
+	<string>Cocoa</string>
+	<string>Darwin</string>
+	<string>public</string>
+	<string>Framework</string>
+	<string>FirebaseABTesting</string>
+	<string>GoogleUtilities</string>
+	<string>Foundation</string>
+	<string>UIKit</string>
+	<string>nanopb</string>
+	<string>states</string>
+	<string>should</string>
+	<string>Network</string>
+	<string>the</string>
 	<string>CoreFoundation</string>
-	<string>GTMSessionFetcherLogView</string>
-	<string>GoogleSignIn</string>
-	<string>GTMSessionFetcher</string>
-	<string>Swift</string>
+	<string>path</string>
+	<string>SafariServices</string>
+	<string>os</string>
 </array>
 </plist>

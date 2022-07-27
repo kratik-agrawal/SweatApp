@@ -1,0 +1,123 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7f211af29bef024538f6f57c8033fba89da066e72c183a93ac942e5e08132858"
+build_start_time: [1658810746, 743981838]
+build_end_time: [1658810755, 775470972]
+inputs:
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Cache/CacheSerializer.swift"
+  : [1658810415, 766079902]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Cache/DiskStorage.swift"
+  : [1658810415, 766429424]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Cache/FormatIndicatedCacheSerializer.swift"
+  : [1658810415, 766760587]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Cache/ImageCache.swift"
+  : [1658810415, 767355680]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Cache/MemoryStorage.swift"
+  : [1658810415, 767804145]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Cache/Storage.swift"
+  : [1658810415, 768150806]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Extensions/CPListItem+Kingfisher.swift"
+  : [1658810415, 768730163]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Extensions/ImageView+Kingfisher.swift"
+  : [1658810415, 769043207]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSButton+Kingfisher.swift"
+  : [1658810415, 769343376]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Extensions/NSTextAttachment+Kingfisher.swift"
+  : [1658810415, 769623279]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Extensions/TVMonogramView+Kingfisher.swift"
+  : [1658810415, 769917488]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Extensions/UIButton+Kingfisher.swift"
+  : [1658810415, 770233631]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Extensions/WKInterfaceImage+Kingfisher.swift"
+  : [1658810415, 770593643]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/AVAssetImageDataProvider.swift"
+  : [1658810415, 773880958]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/ImageDataProvider.swift"
+  : [1658810415, 774098873]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Resource.swift"
+  : [1658810415, 774282455]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/ImageSource/Source.swift"
+  : [1658810415, 774438858]
+  "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/KF.swift": [1658810415, 774638652]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/KFOptionsSetter.swift"
+  : [1658810415, 774926662]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/Kingfisher.swift"
+  : [1658810415, 775223970]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherError.swift"
+  : [1658810415, 775529146]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherManager.swift"
+  : [1658810415, 775870800]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/General/KingfisherOptionsInfo.swift"
+  : [1658810415, 776159763]
+  "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/Filter.swift": [1658810415, 776434898]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/GIFAnimatedImage.swift"
+  : [1658810415, 776623249]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/GraphicsContext.swift"
+  : [1658810415, 776768684]
+  "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/Image.swift": [1658810415, 776970624]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageDrawing.swift"
+  : [1658810415, 777263164]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageFormat.swift"
+  : [1658810415, 777450561]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProcessor.swift"
+  : [1658810415, 777707338]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageProgressive.swift"
+  : [1658810415, 777944564]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/ImageTransition.swift"
+  : [1658810415, 778159141]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Image/Placeholder.swift"
+  : [1658810415, 778313398]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/AuthenticationChallengeResponsable.swift"
+  : [1658810415, 778789997]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDataProcessor.swift"
+  : [1658810415, 778961658]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloader.swift"
+  : [1658810415, 779164791]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageDownloaderDelegate.swift"
+  : [1658810415, 779375553]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImageModifier.swift"
+  : [1658810415, 779576778]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/ImagePrefetcher.swift"
+  : [1658810415, 779836893]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/RedirectHandler.swift"
+  : [1658810415, 780040740]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/RequestModifier.swift"
+  : [1658810415, 780198097]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/RetryStrategy.swift"
+  : [1658810415, 780374526]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDataTask.swift"
+  : [1658810415, 780523300]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Networking/SessionDelegate.swift"
+  : [1658810415, 780695676]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageBinder.swift"
+  : [1658810415, 780922889]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/ImageContext.swift"
+  : [1658810415, 781096220]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFAnimatedImage.swift"
+  : [1658810415, 781240940]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImage.swift"
+  : [1658810415, 781386375]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageOptions.swift"
+  : [1658810415, 781547546]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageProtocol.swift"
+  : [1658810415, 781706809]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/SwiftUI/KFImageRenderer.swift"
+  : [1658810415, 781858921]
+  "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Utility/Box.swift": [1658810415, 782348632]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Utility/CallbackQueue.swift"
+  : [1658810415, 782531738]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Utility/Delegate.swift"
+  : [1658810415, 782708644]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Utility/ExtensionHelpers.swift"
+  : [1658810415, 782869100]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Utility/Result.swift"
+  : [1658810415, 783050537]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Utility/Runtime.swift"
+  : [1658810415, 783264160]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Utility/SizeExtensions.swift"
+  : [1658810415, 783478736]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Utility/String+MD5.swift"
+  : [1658810415, 783657550]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Views/AnimatedImageView.swift"
+  : [1658810415, 784006357]
+  ? "/Users/kratik/Desktop/SweatAppRestart/DerivedData/SweatAppRestart/SourcePackages/checkouts/Kingfisher/Sources/Views/Indicator.swift"
+  : [1658810415, 784297943]
