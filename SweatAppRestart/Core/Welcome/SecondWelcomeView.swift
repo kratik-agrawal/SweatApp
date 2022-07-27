@@ -21,9 +21,16 @@ struct SecondWelcomeView: View {
     var fourthQuestionPlaceholder = "Select Option"
     var fourthQuestionDropDownList = ["1-2", "3-4", "5-6", "7"]
     
+    @EnvironmentObject var viewModel: AuthViewModel
+
+    
     var body: some View {
         
         VStack() {
+            
+            //NavigationLink(destination: ProfilePhotoSelectorView(), isActive: $viewModel.didFinishSurvey,
+           //                label: { })
+            
             AuthenticationHeaderView(title1: " ", title2: "About You")
             
             VStack(alignment: .leading) {
@@ -178,6 +185,9 @@ struct SecondWelcomeView: View {
             .cornerRadius(10)
             .offset(y: 20)
             .scaledToFill()
+            .simultaneousGesture(TapGesture().onEnded{
+                viewModel.uploadSurveyData(favWorkout: firstQuestionValue, whyWorkout: secondQuestionValue, hearAboutSweat: thirdQuestionValue, estimatedWorkouts: fourthQuestionValue)
+            })
         
         
         

@@ -32,7 +32,7 @@ struct ProfileView: View {
                             .scaledToFill()
                             .clipShape(Circle())
                             .frame(width:150, height:150)
-                            .offset(x:120, y:65)
+                            .offset(x:120, y:45)
                         //.foregroundColor(.gray)
                     }
                     
@@ -95,7 +95,7 @@ struct ProfileView: View {
                         .offset(y: 20)
                     
                 }
-                .offset(y: 75)
+                .offset(y: 70)
             }
             
             Spacer()

@@ -13,6 +13,7 @@ class AuthViewModel: ObservableObject {
     @Published var userSession: FirebaseAuth.User?  //ignore this error
     @Published var currentUser: User?
     @Published var didAuthenticateUser = false
+    @Published var didFinishSurvey = false
     private var tempUserSession: FirebaseAuth.User?
     
     private let service = UserService()
@@ -69,6 +70,32 @@ class AuthViewModel: ObservableObject {
     func signOut () {
         userSession = nil //ignore error if it comes
         try? Auth.auth().signOut()
+    }
+    
+    func uploadSurveyData(favWorkout: String, whyWorkout: String, hearAboutSweat: String, estimatedWorkouts: String) {
+        guard let uid = tempUserSession?.uid else { return }
+        
+//        let data = [
+//            "favWorkout": favWorkout,
+//            "whyWorkout": whyWorkout,
+//            "hearAboutSweat": hearAboutSweat,
+//            "estimatedWorkouts": estimatedWorkouts]
+        
+//        Firestore.firestore().collection("users")
+//            .document(uid)
+//            .updataData(data) { _ in
+//                self.userSession = self.tempUserSession
+//                self.fetchUser()
+//            }
+//            .updateValue(favWorkout, forKey: "favWorkout")
+        
+        Firestore.firestore().collection("users")
+            .document(uid).updateData(["favWorkout": favWorkout,
+                                       "whyWorkout": whyWorkout,
+                                       "hearAboutSweat": hearAboutSweat,
+                                       "estimatedWorkouts": estimatedWorkouts]);
+        self.fetchUser()
+        
     }
     
     func uploadProfileImage(_ image: UIImage) {
